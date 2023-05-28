@@ -1,0 +1,50 @@
+== 1. Growth Mindset
+* ABL (Always Be Learning)
+* Embracing challenges and setbacks
+* Learning from failure
+
+== 2. Your Setup (Hardware)
+* Your connection
+* PC vs. Console
+* Input lag
+* Controllers
+* Ergonomics and posture
+
+== 3. Effective Training
+* Training Mode
+* Frame Data
+* Watching Replays
+* Execution
+* Setting goals and measuring progress
+
+== 4. Choosing Your Character
+* Assessing your playstyle
+* Strengths and weaknesses
+* Character archetypes
+** Zoning
+** Rushdown
+** Grappler
+** Mix-up
+* Moves
+** Normals
+** Specials
+** Supers
+
+== 5. Defense
+* Anti-airs
+* Blocking
+* Punishes
+* Parrying
+** Drive Parry
+** Perfect Parry
+* Drive Reversal
+* Teching Throws
+
+== 6. Offense
+* Neutral Game
+** Normals
+** Projectiles
+** Drive Impact
+* Pressure and mix-ups
+* Okizeme
+** Rock

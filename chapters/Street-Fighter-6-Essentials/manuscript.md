@@ -1,0 +1,1875 @@
+# 00-front_matter
+
+
+# Blurb
+
+# Reviews
+
+
+# [[Street Fighter 6 Essentials]]  
+## Everything You Need to Know to Start Winning
+### by gootecks
+
+# Frontispiece 
+
+# Copyright 
+
+# Dedication 
+*Dedicated to all of the fighting game players who didn't have someone to hold their hands and are trying to get better by themselves.*
+
+# Table of Contents 
+
+
+# Acknowledgements
+
+
+# Foreword 
+
+
+# CTA Offer
+"Get an edge in Street Fighter 6 with our FREE online training sessions. Sign up for our mailing list and receive regular invitations to participate in sessions with other top players."
+
+## To Do 
+- [ ] create landing page 
+- [ ] create QR code
+- [ ] create button
+```ad-success
+Sign Up Now 
+```
+
+
+# Epigraph
+*There is no last round.  There is no next round.  There is only **this** round.*
+-- PyroZeroX
+
+
+---
+
+# Cultivating a Winner’s Mindset
+
+
+```ad-quote
+I don't care how great you are and how much you succeed, but without self-love, you're nothing.  
+
+'Cause self-love is discipline, and discipline is doing what you hate to do, but do it like you love it.
+
+--Mike Tyson
+```
+
+![[mike-tyson-mindset-discipline-small.mp4|Source: https://youtu.be/EnmspFPd9lI]]
+Source: https://youtu.be/EnmspFPd9lI 
+
+# Cultivating a Winner’s Mindset
+As with anything in life that you're learning or trying to get better at, your mindset is one of the most important components of the entire process. In the world of fighting games, your mindset can greatly influence your success or failures. In this section, we will explore how to cultivate a winning mindset and improve your overall performance in Street Fighter 6.
+
+## Accept the Process
+To cultivate a winning mindset, you must first accept that improvement is a process and that nobody ever became great overnight. 
+
+In your journey to get better, there will be highs and lows, victories and defeats. 
+
+Treat each match as a learning experience, and remember that everything is practice.
+
+## Commit to Always Be Learning
+It's essential to commit to consistently learning, as there is always something new to discover. Instead of spending all your time playing game after game, focus on dedicating time to learning new strategies, techniques, and characters.
+
+One concept that has helped me in my journey to become a better fighting game player is the idea of getting 1% better every day, as explained by James Clear in his book, Atomic Habits. This approach emphasizes the power of consistent, incremental improvements over time. By learning new characters and diversifying my playstyle, I was able to make small daily progress, which compounded and led to significant overall growth as a player.
+
+By embracing the concept of getting 1% better every day, you can significantly enhance your growth and enjoyment of the game, without it feeling like a chore.
+
+## Learn from Failure
+Failure is just feedback. Treat defeat as a temporary setback and use it as an opportunity to learn and grow. 
+
+If you struggle against certain characters, take responsibility for not knowing how to deal with them and commit to learning more about their strengths and weaknesses.
+
+If you struggle with hitting your combos at critical moments, take responsibility for your poor execution, rather than blaming your opponent or the controller. 
+
+## Learn Multiple Characters
+Understanding various characters' perspectives will help improve your overall knowledge base and enable you to better predict your opponent's moves. Learning multiple characters can also provide long-lasting benefits, as character knowledge can often carry over between different games in a series.
+
+When I first started playing fighting games, I made the mistake of sticking to just one character. While it's true that specializing in a single character can help you master their moveset and develop a deep understanding of their playstyle, it can also limit your growth as a player. Expanding your knowledge and skill set by learning multiple characters can greatly enhance your ability to adapt and understand various matchups.
+
+In my early years, I focused primarily on playing Urien in Street Fighter III: 3rd Strike. Urien, known for his unique playstyle, high damage output, and unblockable Aegis Reflector setups, was a character that I found extremely engaging. I spent countless hours practicing combos and honing my skills with Urien, as well as competing in local and regional tournaments. This dedication led me to become a formidable Urien player, but it also limited my understanding of other characters and matchups in the game.
+
+By limiting myself to one character, I consistently struggled in certain matchups for the lifespan of the game. This would then lead to struggling against certain players that I would often go up against, which lead to more frustration and mental blocks.
+
+## Watch and Analyze Replays
+Instead of getting frustrated and trying to forget about a loss, take the time to watch your replays and identify areas for improvement. Analyzing your gameplay can help you better understand the choices you made during the match and how you can adjust your strategy for future games.
+
+It can be tempting to immediately hit the rematch button or find the next online match, but it’s far more productive to take a moment and rewatch the match.  
+
+If you’ve commmited to learning new characters, you’ll find that it also greatly enhances your ability to analyze and appreciate other players' matches, as well as your own. 
+
+When watching gameplay of any skill level, you can better understand the intricacies of each character's playstyle, as well as the strategies and decision-making processes behind each move. This deeper understanding of multiple characters allows you to learn from other players more effectively and apply those lessons to your own gameplay.
+
+Additionally, learning multiple characters can help you connect with other players within the fighting game community. 
+
+By being knowledgeable about various characters, you can engage in more meaningful discussions, share tips and strategies, and form stronger bonds with players who share your passion for the game. 
+
+```ad-example
+
+During the early stages of my competitive career, I traveled to the East Coast to participate in a team tournament with the goal of qualifying for the prestigious Super Battle Opera (SBO) in Japan. My teammate, Ed Ma, and I did not perform well, failing to make it anywhere close to the finals.
+
+One of the teams that defeated us consisted of Fubarduck, a Chun-Li player, and Mopreme, a Ryu player, both from Austin, Texas. After the tournament, we had a chance to hang out and discuss the matches. Mopreme then offered me an invaluable piece of advice about Urien.
+
+He asked me why I never placed the Aegis Reflector in front of my opponents when they were in the corner, as I always placed it on top of or behind them. I hadn't thought about it before, but once I integrated this advice into my gameplay, I saw instant results. This strategy served me well for the rest of my time playing Urien.
+
+What struck me the most about this situation was that Mopreme was not a Urien specialist; in fact, I wasn't even sure if he played Urien at all. 
+
+However, his knowledge of the character was sufficient to provide valuable advice to someone who considered themselves a Urien specialist. This experience demonstrated the importance of learning different characters in fighting games. 
+
+You don't have to be a character specialist to benefit from understanding various characters, and this knowledge can positively impact your gameplay and growth as a player.
+
+```
+
+## Conclusion
+Cultivating a winner's mindset is crucial for success in fighting games. 
+
+By embracing the process, committing to learning, learning from failures, understanding multiple characters, and analyzing replays, you'll be on the path to becoming a stronger and more resilient player. 
+
+Remember that the key to improvement is consistent effort, and with the right mindset, you'll be able to overcome any challenges that come your way.
+
+
+
+---
+
+# Optimize Your Setup for Street Fighter 6 Success
+
+
+When it comes to mastering Street Fighter 6, many players focus on perfecting their combos, honing their strategies, and learning the ins and outs of their favorite characters. 
+
+While these elements are undoubtedly crucial for success, it's equally important to ensure that your gaming setup is optimized for peak performance. 
+After all, even the most skilled player can be held back by a subpar setup that results in latency or an inadequate gaming experience.
+
+In the following sections, we'll discuss various aspects of an ideal gaming setup, from choosing the right platform and monitor to optimizing your internet connection and recording your gameplay for review. 
+By investing time and effort into perfecting your setup, you'll be giving yourself the best possible chance to excel in Street Fighter 6 and have a much better experience overall. 
+
+But first, let’s discuss some key concepts.  
+
+## Latency 
+***Latency***, or ***input lag*** is the amount of time it takes for a player’s action to be registered by the game and then displayed on screen.  
+This is typically measured in milliseconds (ms), but can also be measured by frames.  
+
+Reducing latency as much as possible is important because oftentimes in fighting games, you only have a split second to react to moves.  
+Therefore, if your setup has a high amount of latency, you are reducing your chances of success and also training your muscle memory with slightly incorrect timing. 
+
+Street Fighter 6, as well as most modern era fighting games, runs at 60 frames per second (fps).  
+One second is 1,000 ms, which means that each frame the game displays takes approximately 16.67 ms.  
+
+That may not seem like much, but when you factor in our human reactions, the time it takes for the controller to register an input, the time it takes for a monitor to display the output from the console/PC, as well as the time it takes for data packets to travel across the internet to reach your opponent, you can see how these seemingly small amounts of time add up quickly. 
+
+```ad-info
+At the launch of Street Fighter V, there were approximately 7-8 frames of input lag on the PS4 version of the game.  
+
+This meant that there were many moves that *should* have been easy to block, but weren’t.  
+
+Eventually, uproar from the community caused Capcom to fix the issue, and eventually the input lag was reduced to approximately four frames.  
+
+```
+
+The main sources of input lag are: 
+- your controller 
+- your display 
+- your console/PC
+
+It’s up to you to understand the latency of each component of your setup, even if you can’t immediately change it right away.  
+
+It’s beyond the scope of this book to go deep into fully optimizing your setup, but some helpful resources are:
+- [inputlag.science](https://inputlag.science/)
+- [Blur Busters](https://blurbusters.com/)
+
+Now let’s dig into each component of your setup.
+
+## Choose the Right Controller for You
+The controller you choose to play with is important because it is ultimately an extension of your mind and yourself.  Without being overly dramatic, it is the equivalent of a samurai sword in the sense that it is what you rely on for every battle and is the difference between life and death. 
+
+Each controller has different components such as the PCB and buttons.  These contribute to its feel, responsiveness, and ultimately, your effectiveness as a player.  
+
+There are many different choices available, but the three main categories are:
+- regular d-pad controllers 
+- fight sticks 
+- leverless/stickless 
+
+
+### Regular Pad Controllers
+
+-   Examples: PS5 DualSense, Xbox One, Xbox 360, Hori controllers
+-   Pros: Familiarity for many players, widely available
+-   Cons: Some may find certain motions difficult
+-   Recommendation: If you're comfortable with pad controllers, stick with them.
+
+```ad-tip
+The PS5 DualSense can be overclocked from its default polling rate of 250hz (4ms) all the way up to 1,000-8,000hz.  
+
+
+However, this is only possible on PC.
+```
+
+![This is a pretty good video about input lag on controllers](https://youtu.be/Wi-40_973Es)
+
+
+### Fight Sticks
+
+-   Examples: Mad Catz, Razer, Victrix, Hori sticks
+-   Pros: Many pro players use them, some find certain motions easier
+-   Cons: Steep learning curve for new players.  The physical distance between cardinal directions induces a small amount of latency. 
+-   Recommendation: If you've been using fight sticks since childhood or are comfortable with them, continue using them.
+
+```ad-warning
+Don't be fooled by marketing.  Playing on stick will not automatically make you a better player and just because many pro players use them, doesn't mean that you need to in order to reach your potential.
+
+```
+
+### Leverless Controllers (Hitboxes, Mixboxes)
+
+-   Unique design with directional buttons instead of a stick
+-   Pros: More precise inputs, innovative design
+-   Cons: Controversial, may be banned in some tournaments
+-   Recommendation: If you're open to trying new controllers and looking for an edge, give them a try
+
+Ultimately, you should play on whichever style of controller you feel most comfortable with.  I’ve seen countless misguided players try to switch to stick and not see the improvements in their game they were expecting, due to the learning curve. 
+
+However, no matter which style you prefer, you should still strive to play on the controller with the least amount of input lag possible.  This may mean swapping out the PCB in favor of another one. 
+
+This chart from [inputlag.science](https://inputlag.science) shows the controllers with the least amount of input lag, though this could change at any time.  
+
+![[2023-04-03-07-20-26.png|Source: inputlag.science]]
+
+Not listed is the Raspberry Pi Pico and other boards based on the RP2040 microcontroller, which supports the open source [GP2040-CE firmware](https://gp2040-ce.info/) and has a default polling rate of 1000 hz (1ms).  
+
+![[2023-04-03-07-29-57.png|Source: gp2040-ce.info]]
+
+I personally haven’t tested it, but if you are handy with electronics and want the best performance possible, it’s worth investigating for sure. 
+
+
+## Why Your Monitor Matters in Fighting Games
+### Not All Displays Are Equal
+Your monitor plays a crucial role in your fighting game experience, and it's important to understand why. 
+Not all displays are created equal, and while a large TV might be perfect for movies and casual gaming, they usually aren't suitable for fighting games due to latency issues. 
+As a serious player, investing in a gaming monitor should be a priority.
+
+### Time to Invest in a Gaming Monitor
+Brands like Asus, BenQ, Acer, LG, and Samsung offer gaming monitors with refresh rates ranging from 120 Hz to 500 Hz, catering to different budgets. 
+You can even find deals for under $100 if you're on a tight budget. 
+When it comes to upgrading your gaming setup, prioritize getting a gaming monitor before spending on a new controller or GPU.
+
+
+### Prioritize Upgrading Your Monitor
+[TIP] A gaming monitor is not only a solid investment in yourself as a player but also versatile, as it works well with various systems, offering more value for your money. 
+
+Prioritize upgrading your monitor to enhance your gaming experience and performance in fighting games.
+-   Before you splurge on a new controller or GPU, think about upgrading your monitor first
+-   Your gaming experience and performance will thank you
+-   Trust us, it's a solid investment in yourself as a player
+-   The best part? Gaming monitors work with various systems, giving you more bang for your buck
+
+## Console Apologists Beware: The Savage Truth About Upgrading to PC for Street Fighter 6
+The age-old battle between PC and console gaming is still ongoing, but when it comes to fighting games, the choice is clear: PC offers a superior experience. 
+Street Fighter 6, for example, is available on various platforms, including PC, PS5, Xbox One, and PS4. 
+The game can run on low-end PC hardware, and there's no need for an expensive high-end PC. You can build a decent gaming PC for about $200, far less than a PS5, and it offers more utility as it can be used for purposes other than gaming.
+
+**Important: Handle these in order**
+1.  Improve internet connection (use wired Ethernet if possible).
+2.  Upgrade your monitor.
+3.  Switch from console to PC.
+4.  Change or upgrade your controller.
+
+## Recording Gameplay
+Having a PC makes it easier to record and review your gameplay, stream, and create content. Furthermore, you can use free apps like OBS, Streamlabs OBS, or StreamElements to record and stream gameplay. 
+Even if streaming isn't your goal, recording your matches on a PC makes it easier to review your replays, which is crucial for improvement.
+
+**Tip: Capture Cards for Console Players** 
+If you're playing on a console like PS4, PS5, or Xbox and have access to a PC, consider getting a capture card to record your matches. 
+Although there are built-in replay functions in modern fighting games, using a capture card makes it much easier and quicker to review your gameplay. 
+By recording and analyzing your matches, you can identify areas for improvement and develop strategies to outsmart your opponents. 
+A small investment in a capture card can go a long way in helping you become a better player and ultimately conquer the world of Street Fighter 6.
+It’s still a better choice to play and record on PC, but if you’re stuck on console, at least get the capture card. 
+
+**Warning: WiFi Woes!** 
+Don't let WiFi hold you back. 
+Invest in a powerline ethernet adapter to ensure a stable connection for your gaming setup. 
+This handy device allows you to plug your ethernet cable into an outlet near your gaming station and connect it to your router/modem at the other end. 
+For a small investment of around 40-50 bucks, you can significantly improve your connection and boost your chances of success in Street Fighter 6. 
+
+Your gaming setup is the one aspect of your skill development that you have full control over, so invest in it to provide yourself with the best chance of success.
+
+
+---
+
+# Classic vs. Modern Controls - Which Should You Use?
+
+
+## Introduction
+In Street Fighter 6, there are three control schemes to choose from: Classic, Modern, and Dynamic Controls. The main difference between these schemes is the complexity of inputs required for executing moves. Let's discuss the implications of these three control schemes on the player base and the game's competitive scene.
+
+## Dynamic Controls 
+This is going to be short and sweet.  Dynamic Controls allow the game to make the best decision for the button you press, based on factors like your distance from the opponent and how much meter you have.
+
+This is easy mode on steroids.  If you want to just press buttons, have fun, and not worry about the intricacies, this move is for sure.  But chances are, if you’re reading this, you’re trying to actually learn the game and get better. 
+
+Since this mode is not available for in online matches, it’s competitively irrelevant.  
+
+## Classic vs. Modern at a Glance 
+| Aspect                      | Classic Controls                             | Modern Controls                                    |
+| --------------------------- | -------------------------------------------- | -------------------------------------------------- |
+| Inputs                      | Precise controller inputs and button presses | Simplified inputs for Specials and Supers          |
+| Execution Difficulty        | High                                         | Low                                                |
+| Muscle Memory Required      | Yes                                          | Less demanding                                     |
+| Accessibility for Newcomers | Not so much                                  | More accessible                                    |
+| Damage Output               | Unchanged                      | Reduced damage on Specials and Supers |
+| Flexibility                 | N/A                                          | Allows for both motion inputs and shortcuts        |
+
+
+## Classic Controls
+Classic Controls involve precise joystick movements and button presses, which have been the norm in fighting games for years.  If you’ve played previous iterations of the game, this control scheme will be familiar to you.  
+
+You have access to three strengths of punches, and three strengths of kicks, and have to do all the specials, Supers, and combos the old-fashioned way, just like our forefathers used to do. 
+
+This control scheme provides a sense of accomplishment and satisfaction for those who invested the time required to be able to execute complex combos in high-pressure situation, but it’s fair to say it’s also been a barrier for newer or casual players who may struggle with the execution difficulty. 
+
+The large amount of upfront investment of time has likely been a big reason why countless players put down the game after their initial hype and enthusiasm dies down.  
+
+![](images/2023-05-04-03-14-06.png)
+
+| Month          | Avg. Players | Gain         | % Gain       | Peak Players |
+| -------------- | ------------ | ------------ | ------------ | ------------ |
+| February 2016  | 5,895.9      | -            | -            | 13,807       |
+| March 2016     | 2,957.1      | *-2,938.8*     | *-49.85%*      | 6,961        |
+| April 2016     | 2,249.6      | *-707.5*       | *-23.93%*      | 5,527        |
+| May 2016       | 1,508.5      | *-741.1*       | *-32.94%*      | 2,915        |
+| June 2016      | 1,089.5      | *-419.0*       | *-27.77%*      | 1,759        |
+| July 2016      | 2,124.8      | **+1,035.3** | **+95.02%**  | 6,931        |
+| August 2016    | 1,332.0      | *-792.8*       | *-37.31%*      | 2,015        |
+| September 2016 | 1,166.5      | *-165.6*       | *-12.43%*      | 3,020        |
+| October 2016   | 1,148.5      | *-17.9*        | *-1.54%*       | 1,765        |
+| November 2016  | 1,107.0      | *-41.5*        | *-3.61%*       | 1,581        |
+| December 2016  | 1,550.1      | **+443.1**   | **+40.02%**  | 4,999        |
+| January 2017   | 1,673.5      | **+123.4**   | **+7.96%** | 2,667        |
+| February 2017  | 1,344.0      | *-329.5*       | *-19.69%*      | 1,823        |
+Source: [Steam Charts](https://steamcharts.com/app/310950#All)
+
+As you can see, in about a year, the average number of players declined from 5,895.9 to just 1,089.5 in June.  ***That’s a decrease of 81%***!  
+
+Granted, these are only the players on Steam, but I don’t see why the dropoff of PS4 players would be much different.  
+
+But is it just that people thought Street Fighter V sucked and that’s why they stopped?  
+
+Let’s look at Mortal Kombat 11:
+
+![](images/2023-05-04-03-15-39.png)
+
+| Month        | Avg. Players | Gain      | % Gain     | Peak Players |
+|--------------|--------------|-----------|------------|--------------|
+| April 2019   | 15,420.0     | -         | -          | 27,301       |
+| May 2019     | 6,614.8      | *-8,805.3*| *-57.10%*  | 18,629       |
+| June 2019    | 2,994.5      | *-3,620.3*| *-54.73%*  | 5,735        |
+| July 2019    | 1,944.6      | *-1,049.9*| *-35.06%*  | 3,728        |
+| August 2019  | 1,575.5      | *-369.0*  | *-18.98%*  | 3,283        |
+| September 2019| 1,117.9     | *-457.6*  | *-29.04%*  | 2,150        |
+| October 2019 | 1,367.1      | **+249.2**| **+22.29%**| 3,664        |
+| November 2019| 1,378.0      | **+10.9** | **+0.80%** | 3,174        |
+| December 2019| 1,715.2      | **+337.2**| **+24.47%**| 3,518        |
+| January 2020 | 1,948.3      | **+233.1**| **+13.59%**| 3,909        |
+| February 2020| 2,005.0      | **+56.6** | **+2.91%** | 4,384        |
+| March 2020   | 1,998.6      | *-6.4*    | *-0.32%*   | 5,016        |
+| April 2020   | 1,720.5      | *-278.2*  | *-13.92%*  | 3,639        |
+Source: [Steam Charts](https://steamcharts.com/app/976310)
+
+***Average players decreased 88% in the first year***, so clearly this is not a trend that’s limited to just Street Fighter.  
+
+## Enter Modern Controls
+Modern Controls are a brand-new control scheme that reduces the damage output of some moves in exchange for significantly easier inputs on Specials and Supers. 
+
+For example, you can do one-button Specials, such as Ryu's Fireball or DP, which makes it a lot easier for newer and casual players to have fun with the game. Rather than needing to practice the traditional QCF+P motion for a Fireball, Ryu can just press the Special button and the Fireball will come out.
+
+Why is this important? 
+
+Well, when you lower the execution barrier, it has the potential to change quite a lot. As someone who's played in arcades since I was a kid, I can tell you I've spent countless hours practicing combos in Training Mode so that I could land them in real matches in high-pressure situations.
+
+But obviously, the vast majority of players aren't going to invest the time that it takes to be dedicated enough to build the muscle memory required to play fighting games at a high level.  Especially when they are brand new to the franchise and get destroyed when they decide to hop  online. 
+
+Modern Controls, offer a more accessible option for new players. With simplified inputs for Specials and Supers, the execution difficulty is significantly lower. This control scheme requires less muscle memory, making it easier for newcomers to pick up the game, and hopefully stick with it. 
+
+## Impact on Competitive Scene
+It's too early to tell what the real impact of Modern Controls will be on the competitive landscape. Initially, many people thought there was a 20% damage reduction when using Modern Controls, but further investigation has shown that it's not that simple. 
+
+The damage output depends on whether a player uses motion inputs or the Special button, with the latter resulting in slightly lower damage.
+
+![](workspace/images/Pasted%20image%2020230501211701.png)
+Source: /u/FGCDaily 
+
+This image and compares the damage of Luke’s Level 2 between Classic, Modern doing the full input of the super, and Modern using the shortcut (Special + Heavy). 
+
+It turns out that the damage on Classic and Modern when you do the motion is exactly the same. But when you use the shortcut in Modern Controls, the super does about 20% less damage.
+
+Sure, it’s noticeable, but It's not so low that you could immediately write it off and say it's not worth it.
+
+![The difference in damage from Ryu’s st. HP xx OD Donkey Kick, B+HK xx MP DP.  ](images/2023-05-04-04-21-19.png)
+
+The difference is pretty minimal in this situation, whereas the difference from a raw Super is more noticeable.  
+
+However, in exchange for the ease of execution, there are definite limitations. 
+
+For example, when Luke is in Modern Controls, he doesn't have access to his B+HK, which is his most damaging Punish Counter normal after blocking a DP or another high-risk reversal.
+
+In Modern Controls, Ryu has no access to st. MK, one of his best pokes, and j. MP, which can lead to air juggle combos. 
+
+Even taking into account these limitations, what’s most important is that with Modern Controls, you can start off by using the shortcuts, then gradually integrate the full motion inputs into your game over time. 
+
+This could be an appealing option, even for serious players, because it allows you to get familiar with characters faster, which will speed up the process of learning matchups.  
+
+Either way, now players get the opportunity to choose whether they would rather dedicate the time it takes to improve their execution upfront, or gradually build up the muscle memory for higher-damage combos over time.  
+
+Although it’s unlikely that the next Capcom Cup champion will be playing on Modern Controls, don’t be surprised if there is eventually a new crop of high-level players that strictly play on Modern.  
+
+Next, we’ll go into detail about how Modern Controls work. 
+
+---
+
+# The Ins and Outs of Modern Controls
+
+
+In this section we’re going to go into detail about Modern Controls.  If you’ve already decided that you’re going to play with Classic Controls, feel free to skip this section. 
+
+## Normals (Light, Medium, and Heavy Attacks)
+Instead of having three punches and three kicks with light, medium, and heavy versions of each, you have just light, medium, and heavy attacks.  They are denoted in-game by blue, yellow, and red buttons respectively. 
+
+As you might expect, we’re going to use Ryu as an example. 
+
+### Modern Inputs At a Glance 
+| Attack Level | Modern            | Classic        | Cancelable | Notes                                              |
+| ------------ | ----------------- | -------------- | ---------- | -------------------------------------------------- |
+| **Light**    | Standing          | st. LP         | ✅         |                                                    |
+|              | Crouching         | cr. LK         | ✅         | Press twice quickly for cr. LK, followed by cr. LP |
+|              | Jumping           | j. LK          |            |                                                    |
+|              | AUTO + Light      | st. LK         | ✅         | AUTOmatically stands even if crouching             |
+| **Medium**   | Standing          | st. MP         | ✅         |                                                    |
+|              | Crouching         | cr. MK         | ✅         |                                                    |
+|              | F + Medium        | F + MP         |            |                                                    |
+|              | Jumping           | j. MK          |            |                                                    |
+|              | AUTO + Medium     | cr. MP         | ✅         | AUTOmatically crouches even if standing            |
+| **Heavy**    | Standing          | st. HP         |            |                                                    |
+|              | Crouching         | cr. HP         | ✅         |                                                    |
+|              | B + Heavy         | B + HK         | ✅         |                                                    |
+|              | DF + Heavy        | cr. HK         |            |                                                    |
+|              | F + Heavy         | F + HK         | ✅         |                                                    |
+|              | Jumping           | j. HP          |            |                                                    |
+|              | AUTO + Heavy      | F + HP         |            |                                                    |
+| **Special**  | Neutral SP        | HP Fireball    |            |                                                    |
+|              | F + SP            | HP DP          |            |                                                    |
+|              | B + SP            | MK Tatsu       |            |                                                    |
+|              | D + SP            | MK Donkey Kick |            |                                                    |
+|              | Forward Jump + SP | Air Tatsu               |            |                                                    |
+
+### Gone, but not Forgotten 
+Experienced Ryu players might notice that there are a few moves missing from the list:
+- st. MK 
+- B+HP 
+- j. MP
+
+It’s unfortunate that st. MK is gone, as that’s one of his best pokes, but to make up for it, his two target combos are slightly easier:
+- st. Medium, Medium, Medium - 3-hit target combo that is unsafe on block, but with practice, you have enough time to hit-confirm the last hit and stop yourself if they’re blocking. 
+- st. Heavy, Heavy - 2-hit target combo that knocks down, but is also unsafe on block.  This, too, can be hit-confirmed with practice. 
+
+## The AUTO Button 
+The AUTO Button acts similar to the Shift button on a keyboard.  
+
+You can hold it while pressing an Attack or Special, and you’ll get a different version.  
+
+These sometimes auto-stand or auto-crouch your character when doing the AUTO attack, which could be useful or annoying, depending on the situation. 
+
+> [!tip] It’s also worth noting that you don’t need to hold the AUTO button when pressing an Attack or SP, you can also press it at the same time.
+
+The AUTO button also leads to Assisted Combos.  Each seems like each character has three AUTO Assisted Combos. 
+
+For example, with Ryu:
+
+- AUTO + Light, Light: Standing light kick into Donkey Kick
+- AUTO + Medium, Medium: cr. MP xx OD Palm; press a third time to combo into Level 2 super
+- AUTO + Heavy, Heavy: Solar Plexus Strike (F+MP), cr. MP xx OD Fireball; press a third time to cancel into Level 3 super
+
+## The Special (SP) Button 
+Now we'll move on to the Special (SP) button. 
+
+The major selling point of Modern Mode is that you have access to one-button specials, which reduces the execution barrier significantly. 
+
+For example, with Ryu, if you just press neutral Special, then he gets a Medium. Forward + SP gives him a MP DP, and B + SP gets him the Tatsu; down special gets the donkey kick, all of them being the medium versions.
+
+But you can still access the exact strengths of the moves by doing the full motion and hitting the button that corresponds to the strength you want. 
+
+> [!tip] With Modern Controls, Ryu can only access the Palm (Hashogeki) by doing the full QCB + L/M/H motion. 
+>  *Because of this, he only has access to MK Donkey Kick and MK Tatsu in Modern.*
+
+## OD Moves 
+To do the OD version of a special move, you hold AUTO and press SP (or press them simultaneously), while holding the direction for the desired special. 
+
+Alternatively, you can do OD moves by pressing any two of the three Attack buttons when you do the motion manually.
+
+> [!tip] The only way to do an OD Donkey Kick is with the SP button.
+
+## Drive Parry and Drive Impact 
+By default, you also have the parry button. As a Hitbox and stick player, I always have parry set to one button anyway, so this is not much of a change. 
+
+The same goes for Drive Impact.  
+
+I prefer to reduce the margin for error wherever possible and there’s less that can go wrong by using one button for these moves.  
+
+With Classic controls, you do have the option to manually press LP+LK or HP+HK together, rather than setting them to their own buttons.  
+
+However, with Modern, there is no way to do these moves without having a button set to them. 
+
+## Throws
+By default, there’s also the throw button, which is normally performed with LP+LK.  
+
+With Modern Controls, it can also be performed by pressing Light + Medium. 
+
+This means that you could set the throw button to something else if you preferred, while still having access to throws.
+
+But what would you even set the button to?  
+
+I’m glad you asked!
+
+## Single-Button Supers 
+With Modern Controls, not only can you perform one-button specials with the SP button, Super inputs are reduced to SP + Heavy. 
+
+Neutral SP + Heavy → Level 1 Super 
+Back + SP + Heavy → Level 2 Super 
+Down + SP + Heavy → Level 3 Super 
+
+Pretty easy compared to QCF, QCF+P for sure.  
+
+Yes there is damage scaling, so it does about 20% less damage, but that can be avoided by doing the full motion for the Super: 
+
+QCF, QCF + Light → Level 1 Super 
+QCB, QCB + Medium → Level 2 Super 
+QCF, QCF + Heavy → Level 3 Super 
+
+***But wait, there’s more!*
+
+If you go into Button Config, you’ll find that it’s indeed possible to set one of your buttons to Heavy+SP!  🤯 
+
+This allows you to do a literal one-button Super!  And of course, you can do a Level 2 with Back + (SP+Heavy), and a Level 3 with Down + (SP + Heavy).  
+
+Now you can buffer Ryu’s cr. MK aka crouching Medium from pretty far away from the opponent, while pressing your Super button shortly after.  If it makes contact with the opponent, the Super comes out.  If cr. MK whiffs, nothing comes out.  
+
+Of course it also makes previously difficult combos ***much easier***, but it also makes it easy to punish moves on reaction, as well as on Reversal.  Anything that is -5 on block is now much easier to punish with a Reversal Level 3, or anything that’s -8 on block with a Level 1.
+
+It also makes canceling Specials into your Super much easier as well.  
+
+For example, in the corner, Ryu can hold down, press Medium for cr. MK, then press SP for the Donkey Kick, then press the Super button to cancel into his Level 3.  ***All while continuing to hold down!*** 
+
+Remember, there is a damage scaling penalty when doing the Super like this, about 20%, but if you’re new to fighting games or just don’t want to invest the time it takes to build the muscle memory required to do it the “old fashioned way”, it’s a surefire way to hit your combos every time. 
+
+
+
+In modern mode, players can perform one button specials and supers, significantly reducing the execution barrier. For Ryu, neutral special results in a medium fireball, forward special gives a DP, back special gives a Tatsu, and down special gives a donkey kick (all medium versions). However, different strengths of moves can still be accessed by performing the full motion and pressing the desired strength button.
+
+One button supers can be done by pressing heavy and special at the same time. Pressing these buttons in different directions will result in different super levels (neutral for level 1, back for level 2, and down for level 3). Setting one of the buttons to special and heavy allows for one button supers, which can be faster and easier than performing full motions.
+
+4. Damage scaling and decision making
+
+Modern mode's damage scaling might make it less appealing for some players, but the trade-off is that it reduces the need to spend time building muscle memory and perfecting combos. Instead, players can focus on character matchups and making correct decisions during gameplay. It's up to each player to decide which approach they prefer.
+
+---
+
+# Choosing A Character
+
+
+# Choosing A Character
+
+```ad-tip
+title: tl;dr
+When choosing a character in a fighting game, prioritize learning the game mechanics and select characters with shared inputs for faster improvement. Ryu is an excellent starting point for beginners, as he's an average, accessible character. Alternatively, consider Luke, who's strong, easy to execute, and shares inputs with Ryu.
+```
+
+Selecting the right character to use in a fighting game can significantly impact your enjoyment and success. It's essential to find a character that suits your playstyle and helps you learn the game mechanics effectively.
+
+My first year of college, I was playing a lot of fighting games, from CVS2, to Street Fighter III: 3rd Strike.  This was the pre-YouTube era.  I would scour the forums for fighting game videos, especially combo videos.  
+ 
+A friend sent me this Urien video made buy a guy named John D. Rockefeller. In it were the some of the sickest combos I'd ever seen in a fighting game.  I knew instantly I was going to do everything it took to be able to do those combos in real matches. 
+
+So I know how it feels to see something really cool and then instantly want to play it.
+
+I get it.
+
+But here's the thing.
+
+Just because a character, combo, or setup is cool doesn't mean that it's the best way to get good at the game.  Or Or that you should immediately try to play it.
+
+When I first encountered Urien in a combo video during college, it inspired me to become a serious competitive Third Strike player. I understand the excitement of discovering a character that resonates with you, but it's crucial to consider whether they're practical to learn and whether they're a strong choice in the game.
+
+#### Finding the Right Character
+In 2008, when I made the transition from 3rd strike to Street Fighter IV, I struggled with finding a character to play.
+
+I didn't really like the feel and the aesthetic of the game at the time.
+
+It took some time before I finally settled on a main, which was Balrog.
+
+And even though I had success, even though I enjoyed a lot of success with Balrog, I never really took the time to try everybody.
+
+Remember this was the arcade days of 2008.  There really wasn't much time to experiment because there was always a huge line to play.
+
+I was just trying to stay on the machine as best I could, which meant there really it was little to no time for any experimentation.
+
+As I progressed in SF4, I learned the importance of learning multiple characters, which lead me to understand that the most effective way of learning a Street Fighter game is through the eyes of Ryu.
+
+But why is that? 
+
+1.  _He's the game's poster character:_ Ryu is on the cover of almost every Street Fighter game. As an average character in terms of speed, damage, and abilities, he's designed to be accessible and a good starting point.
+    
+2.  _Ryu is an effective way to learn the game:_ If you already have a basic knowledge of Ryu, you can focus on learning the new game mechanics and systems.
+    
+3. *There are many existing strong Ryu players:* Because he’s such a popular character, there is no shortage of great Ryu players to learn from.  Players like Alex Valle, Daigo Umehara, John Choi, Tokido, and XSK Samurai are just a small sample of great Ryu players from throughout the various eras that you can learn from.
+
+Some players may find Ryu "boring" or too common, but focusing on effectiveness and winning is more important than catering to those preferences.
+
+## Learning to Play Luke: A Strong Alternative
+If you don't want to start with Ryu, my alternative suggestion is to learn Luke. He was the last DLC character in Street Fighter V, and he's quite strong in that game. 
+
+His inputs are similar to Ryu's, making his execution straightforward.
+
+Luke is on the cover of Street Fighter VI, which indicates he's likely meant to be a strong character. Unlike other powerful characters that require a high level of technical skill and knowledge to play effectively, Luke has lower execution requirements, making him more accessible. 
+
+He's like Shoto v2.0, with a faster fireball, better range on his DP, and simple yet useful target combos.
+
+And if you took the time to learn him in SFV, that experience carries over to the new game. 
+
+However, you might have reservations about using him if you find his design annoying, or if you consider him too strong in Street Fighter V and don't want to win with a "cheap" character.
+
+Luke seems designed to be annoying, perhaps to level the playing field for less experienced players, like a younger sibling.  Imagine a little brother that you can usually beat in most games, but for some reason struggle against him in this game when he uses Luke.  
+
+How annoying would that be?  🤣 
+
+Capcom seems to be trying to bring in a new generation of Street Fighter players with him. 
+
+Since he's so strong, he’s worth exploring as your main character option as well as to counter the numerous other players using him. 
+
+
+```ad-tip
+The best way to learn how to fight against a character is to use that character yourself. 
+```
+
+It's either adapt and learn Luke or risk losing to all the little brothers of the world. 
+
+---
+
+# The Basics of Street Fighter
+
+
+
+
+---
+
+# Basic Offensive Pressure
+
+
+# Basic Offensive Pressure in Street Fighter 6
+
+## The Neutral Game
+
+The round starts in the neutral game, with both players standing and ready to make their first move. This is the moment when the announcer says "Round One, Fight!" and you must make your first decision. 
+
+Generally, your basic options are to attack, throw a projectile (if your character has one), or do nothing, waiting to see what your opponent does. Overextending at the beginning of the round can lead to a difficult start and potentially being on the defensive for the rest of the round. 
+
+Your choice of action generally depends on your confidence and familiarity with your character and the matchup. Personally, with most characters, I often start by walking forward to see how close I can get to my opponent without taking damage.
+
+This usually transitions into what's referred to as footsies, where both players move in and out of their optimal attack ranges, trying to catch the other player whiffing a normal attack or throwing out an unsafe projectile. Success in this phase of the game often depends on your ability to impose your will on your opponent, aiming to land the first major hit.
+
+## Understanding Ranges and Countering Jumps
+
+Good footsies require a strong understanding of the reach of your normal attacks and the range of your opponent's normal attacks. Inexperienced players often struggle with this aspect and end up getting cornered without putting up much of a fight.
+
+Once your opponent realizes they can't outmaneuver you on the ground, many will opt to jump forward. This is a common response and you need to be prepared to counter it. 
+
+For example, when I'm using Ryu and advancing towards the corner, while using normals like crouching Medium Kick and standing Medium Kick, I also watch for a potential jump from my opponent, ready to respond with an anti-air DP or crouching Heavy Punch.
+
+## Scoring a Knockdown
+
+Scoring a knockdown, perhaps with Ryu's crouching Heavy Kick (sweep), leads to another decision point. After being knocked down, your opponent can either do nothing and take the automatic quick rise, or they can back roll, putting more distance between you but moving them closer to the corner.
+
+## Drive Rush and Parry Drive Rush
+
+In Street Fighter 6, a new offensive option from the start of any round is the Drive Rush. 
+
+Both Drive Rush and Parry Drive Rush start with a green flash, swiftly sliding the character across the screen. This action adds extra frames of hitstun, providing +4 on hit or block to the original number.
+
+For instance, Ryu's forward Medium Punch overhead is normally +2 on hit. However, if you execute a Parry Drive Rush overhead, it becomes +6 on hit. This allows Ryu sufficient time to link into standing or crouching Medium Punch, which can then be cancelled into a special move of your choice, enabling combos that are only possible in Drive Rush.
+
+Parry Drive Rush only costs one of your stocks, while a regular Drive Rush costs three stocks of your Drive Gauge. Both are important tools in the game and we'll delve into them more in a later chapter.
+
+## OD Moves and Drive Gauge
+
+Another new feature in Street Fighter 6 for early game offensive pressure is the ability to use your Drive Gauge on OD moves, which are powered up special moves. At the start of every round, you begin with six bars, theoretically allowing you to throw out three OD moves, such as projectiles. This can potentially make the match pace quicker from the start.
+
+You can also start with a Parry Drive Rush which only costs one bar, compared to OD moves costing two bars and Drive Rush costing three. 
+
+For instance, you could use Drive Rush as a follow-up to a whiff punish from a distance. Many characters have a Medium Punch kick, either standing or crouching, that can be performed from a distance and is cancellable, such as Ryu's crouching Medium Kick or Can's standing Medium Kick.
+
+So, at the beginning of the round, there are three main ways to use your Drive Gauge: 
+
+1. **Parry Drive Rush** which costs one stock and gives all your normals an additional +4 on hit or block.
+2. **OD moves** similar to the EX moves in previous Street Fighter games, costing two bars or one third of your total drive gauge.
+3. **Drive Rush** which is a normal cancelled into a dash as the normal makes contact with the opponent. This costs three stocks of your Drive Gauge.
+
+Both Parry Drive Rush and Drive Rush give the aggressor a way to put the defender into a mix-up situation early in the round due to the extra frames on hit and block.
+
+## Changes from Street Fighter 5 to Street Fighter 6
+
+One of the biggest changes from Street Fighter 5 to Street Fighter 6 is the change in frame advantage. In Street Fighter 5, many normals had plus frames of advantage, with being +2 considered very good. In Street Fighter 6, however, few normals, if any, are even or negative, with many being zero frames. 
+
+Ryu, for example, has his standing Heavy Kick, which is +1 on block, but only connects on standing opponents. His forward Heavy Punch is also +1, but has a slow startup. Therefore, his best up-close normal is his crouching Medium Punch, which is zero on block. This change means that frame traps don't work the same as they did in Street Fighter 5, since being close to the opponent with plus frames is rare, leading to a different dynamic in scoring counter hits and applying pressure.
+
+## Transitioning to Mid Game
+
+The first knockdown, anti-air, or combo marks the end of the early game. Each round is divided into the early game, mid game, and late game, and the transition into the mid game occurs once the first major hit is landed. This point represents the start of significant decision making. For instance, if the defender gets knocked down, they must decide how to recover.
+
+In the next section, we will delve into the dynamics of the first knockdown decision.
+
+
+
+---
+
+# Basic Defensive Options in Street Fighter 6
+
+
+
+Let's dive into the basic defensive options in Street Fighter 6, specifically when you're in the mid-game, having been knocked down and now facing an opponent bearing down on you as you get up. If you're uncertain about how to respond when under attack, remember, blocking is usually the right answer, around 80% of the time.
+
+## Blocking 
+
+Although not an exact science, more of a basic guideline, when you're recovering from a knockdown, blocking low is your safest bet. Blocking low protects you from low attacks and leaves you with just throws and high attacks or overheads to worry about.
+
+This leads us to the rock-paper-scissors analogy of fighting games: blocking neutralizes attacking, throws beat blocking, and attacks beat throws. So if blocking is the safest thing to do, what about other situations? What are the other options?
+
+## Teching Throws
+
+In this section, we're going to delve into the concept of teching throws. Anytime your opponent is near you, it's crucial to remain aware that a throw is always a possibility. 
+
+Throws are executed in five frames and you only have a small window to input your own throw, resulting in the throw being neutralized or 'teched.' This window is fairly small, making teching more of an educated guess than a reaction.
+
+Be wary though, if the opponent baits out your throw and causes it to whiff because they were outside of the throw range, then you're left vulnerable. You're in recovery frames until the animation finishes, and during this time, you can be punished. This counter gives the opponent a 20% damage boost and a +4 on hit, allowing for Punish Counter-only combos.
+
+A noteworthy shift between Street Fighter 5 and Street Fighter 6 is the effect after a throw is teched. In Street Fighter 6, the characters are pushed away from each other much further than they were in previous Street Fighter iterations like Street Fighter V, Street Fighter IV, and Third Strike. This means that opting for a throw as an attacker is slightly riskier, because if the defender techs the throw, not only is the situation reset, but you've lost a considerable amount of screen position that you might have worked hard to gain. 
+
+> [!note] 
+> If you input the throw command while crouching or blocking low, your character will stand up and the throw will be executed. You have to be mindful of this, because you could end up being punished and the situation could swiftly take a turn for the worse.
+
+## Invincible Reversal
+
+You could use an invincible reversal, such as a wake-up OD DP from previous Street Fighter games. In Street Fighter 6, only the OD invincible reversals seem to have invincibility on startup. This presents a risk because if the opponent blocks, they have ample time to punish you. A punish in this context is blocking a move and then counterattacking before the opponent can block. 
+
+For instance, if Ryu does a wake-up ODDP and the attacker anticipates it correctly and blocks, then Ryu is high up in the air, and you can punish with a max damage combo. Being able to consistently execute a proper Punish Counter, particularly with invincible reversals, separates strong players from weak ones. 
+
+## Anti-Airs
+
+Another defensive option is using anti-airs. Characters with projectiles tend to have good anti-airs. An anti-air could be an invincible reversal, like Ryu's DP, or a normal such as his crouching Heavy Punch (cr. HP). 
+
+## Defensive Options of the Drive System
+
+Now, let's explore the defensive options offered by the Drive System.
+
+### Drive Impact
+
+Drive Impact (DI) can be used defensively against an attacker's DI. Most DIs have a 26 frame startup, which is a little over a third of a second, meaning that with practice, you should be able to react with your own DI. If that happens, the defender's DI will score a crumple, allowing a high-damage combo.
+
+In Street Fighter 4, DI is somewhat the spiritual successor to Focus Attack, except this time around, it has two hits of armor instead of one. This means you need to connect with three hits total to break its armor. However, DI can be thrown and isn't particularly effective on wake-up or as an anti-air. 
+
+### Drive Parry
+
+Drive Parry, performed by pressing Medium Punch (MP) and Medium Kick (MK) simultaneously as an attack makes contact, prevents damage and builds your Drive Gauge with each hit parried. In many situations, you may parry something and not be able to counterattack, especially considering the frame advantage of the incoming move doesn't change. 
+
+However, you can also hold down parry, which drains your Drive Gauge but auto-parries incoming hits regardless of whether the hit is high or low. If you mis-time it, you'll be in recovery frames, and getting hit counts as a Punish Counter, giving the attacker a 20% damage boost and an additional plus four frames on hit.
+
+### Perfect Parry
+
+Perfect Parry, with the same input as regular parry, can score a Perfect Parry if the parry connects on the first or second frame. This affords ample time for a high-damage combo, though the damage of the next combo is halved
+
+ (scaled by 50%) following a Perfect Parry.
+
+### Drive Reversal
+
+Drive Reversal, done by pressing forward and Heavy Punch (HP) and Heavy Kick (HK) together while in block stun, costs two bars of the Drive Gauge. If the Drive Reversal connects, the attacker is knocked down and incurs gray life damage which slowly regenerates over time. However, if the Drive Reversal is blocked, it can be punished. 
+
+Lastly, performing wake-up Supers can also serve as a defensive option, although it's risky. It could turn you into a genius or a fool, based on the result. Not only will a miscalculated attempt invite a high-damage punish, but it will also consume one or more of your super bars. Therefore, it's an option to be used judiciously.
+
+> **Note**: 
+- There's no Punish Counter or Crush Counter in Street Fighter 6. 
+- 'ODDP' stands for Overdrive Dragon Punch. 
+- 'OD' stands for Overdrive. 
+- For comprehensive coverage of the Drive System, refer to later chapters.
+
+
+---
+
+# Understanding Frame Data in Street Fighter 6
+
+
+Frame data are the numerical building blocks of any fighting game. It's like the genetic code of every move in the game. When you understand the way that frame data works, you can gain a deeper understanding of every move, how it relates to your character, and gain a deeper understanding of the game as a whole.
+
+You can use frame data to figure out which moves are safe or unsafe, and which moves in your arsenal you can use to punish an opponent's blocked move. You can use it to construct offense, both by piecing together moves that will link into each other, and to create block strings and frame traps.
+
+> Note: Frame data may seem intimidating at first, with its resemblance to a giant spreadsheet. Most people don't get into fighting games because they enjoy giant spreadsheets; they get into fighting games because of the cool combos and the fun gameplay.
+
+However, if you're serious about getting better, learning how to use frame data is probably the most important skill a fighting game player can develop, second only to execution. Understanding frame data can help you make better decisions, which will improve your win rate over the long run.
+
+> Note: Frame data can be a complicated subject. The aim here is to break it down as best as possible.
+
+Now, for a little bit of context, I've played just about every version of Street Fighter since Street Fighter II in the early 90s. However, it wasn't until Street Fighter V in 2016 that I really started to utilize frame data and prioritize its importance when learning the game.
+
+> Note: This delay in using frame data was due in part to a lack of access to the frame data, a lack of Training Mode features that showcased the frame data, and a combination of laziness and hubris on my part.
+
+When I started competing in Street Fighter III, 3rd Strike, frame data was a highly advanced topic with few easily available resources. Even after I started competing regularly, despite being aware of frame data, I didn't know where to look or how to start using it.
+
+Therefore, I believe it's vital for players nowadays to have a strong understanding of frame data. While Street Fighter V eventually integrated frame data features into its Training Mode, Street Fighter 6 does it significantly better – hats off to Capcom for this.
+
+In Street Fighter 6, Training Mode has probably the most important quality of life improvement: the frame meter. This can be activated through the menu. It might seem intimidating or complicated at first, but the fact that it exists is a huge advantage for players. You no longer need to wonder what's happening with every frame of a move.
+
+> Note: The frame meter will be discussed in detail later.
+
+It's a significant change to have all this information readily available. Regardless of how much you choose to learn about it, the fact is, it's freely available in the game, as well as on sites like fullmeter.com. Even if you choose not to fully maximize this advantage, you can be sure that your competition will.
+
+## How Frame Data Works in Street Fighter 6
+
+So, how does frame data work? Firstly, you always have to keep in mind that the game runs at 60 frames per second. When you're just starting out, remembering this fact can make it easier to put all the numbers into context – because it is a lot of numbers!
+
+We're going to begin, as you might expect, with Ryu. 
+
+Looking at fullmeter.com, the first thing we're going to do is click on one of the columns and turn off all of the columns, except for 'startup', 'active', and 'recovery'. Additionally, we'll turn on 'total'. So now, we only have four columns displayed.
+
+For now, we're only going to focus on the grounded moves. We'll start with standing light punch (st. LP), standing medium punch (st. MP), and standing heavy punch (st. HP). This is the simplest way to start, and the same concepts can be extrapolated once you understand the basics.
+
+![](images/2023-05-11-16-54-42.png)
+
+So, what do each of these columns mean? Let's start with 'Total'. 
+
+This is the total number of frames of animation that the move has from start to finish. As you can see, a st. MP is 20 frames in total. 
+
+So, if the game runs at 60 frames per second and st. MP has 20 frames of animation in total, it means that it takes one-third of a second for the move to come out, from the moment you press the button until the animation finishes.
+
+But without context, that doesn't mean very much. So, how does that compare to the other two moves, st. HP and st. LP? 
+
+Well, st. HP has 32 frames in total. This means from start to finish, the animation of the move takes just over half a second to play. St. LP, on the other hand, has 13 total frames, meaning its animation takes just under a quarter of a second from start to finish.
+
+Now, it's not super important to remember the exact numbers of every move in your arsenal at this point. This is more to illustrate the difference in speed between each move. 
+
+> [!tip] The Total column can be used to calculate Frame Kill scenarios, where you need to “kill” a certain number of frames after a knockdown to ensure that your next attack connects as a “meaty” as the opponent gets up.
+
+At this point, you might be thinking to yourself that the difference between a quarter, a third, and half a second really isn't that much. 
+
+And you're right, in the real world, there's not much we do on a day-to-day basis that places a heavy importance on the differences between a quarter and half a second. 
+
+But in fighting games, every frame counts.
+
+## Understanding Startup, Active, and Recovery Frames
+
+Now, we're going to turn off the 'Total' column, leaving only the 'Startup', 'Active', and 'Recovery' columns. To understand these, imagine throwing a punch in real life:
+
+- 'Startup' frames are from the moment your fist and arm begin to extend away from your body.
+- 'Recovery' frames are from the moment you start to retract your fist and arm until they're back at the starting position.
+- 'Active' frames are the sweet spot in the middle where your punch is most powerful and can make contact with the target.
+
+When we look at each of these columns, it's important to realize that each one is significant in its own way. If you're throwing a punch, the punch doesn't just land instantly. It takes time for your arm to extend and your fist to make contact. This is true whether you're Mike Tyson, Bruce Lee, or some random person in a bar fight.
+
+The time will vary based on your training and skill set. Similarly, the time it takes for the punch to travel the distance will also vary depending on the type of punch you're trying to throw. 
+
+Consider boxing: jabs are fast punches that don't necessarily do a lot of damage, they're more to keep the opponent on their toes. Uppercuts, while more forceful and damaging, are slower than jabs. The same principles apply to fighting games, including Street Fighter 6.
+
+Looking at the 'Startup' column, you'll see that standing light punch (st. LP) has a startup of 4 frames, standing medium punch (st. MP) has a startup of 6 frames, and standing heavy punch (st. HP) has a startup of 10 frames. 
+
+Keeping in mind that the game runs at 60 frames per second:
+
+![](images/2023-05-11-17-35-54.png)
+
+- A 4-frame startup is 1/15th of a second.
+- A 6-frame startup is 1/10th of a second.
+- A 10-frame startup is 1/6th of a second.
+
+Although these differences may seem minuscule as we're talking fractions of a second, proportionally, it's a significant difference. Going from 4 to 10 frames is a 150% increase in time, while going from 4 to 6 frames is a 50% increase.
+
+It's also important to understand that human reaction times play a significant role. 
+
+![](images/2023-05-11-17-42-39.png)
+
+According to humanbenchmark.com, the average reaction time after 81 million tests is 273 milliseconds, which is just over a quarter of a second. Translated into frames (given that 1,000 milliseconds divided by 60 frames per second is approximately 16.67 milliseconds per frame), 273 milliseconds is around 16 frames.
+
+This is crucial to remember when understanding frame data. 
+
+For instance, the total number of frames for st. LP is 13 frames, three frames faster than the average human reaction time, which means you won't be able to react to it in time.
+
+Similarly, st. MP, which is 20 frames total, is also probably not something you're going to be able to react to if you weren't already blocking. 
+
+You might be thinking that you have better reaction times than the average Joe and that you can react in less time, maybe 12 or 14 frames instead of 16.  
+
+Therefore, you should be able to react to a 20 frame move, right? 
+
+Wrong.  
+
+You have to look at the Startup frames for the st. MP to determine whether you would be able to block on reaction.  6 frames is way too fast to be able to react. 
+
+So although, you might be able to whiff punish a st. MP under optimal conditions because it’s 20 frames total, you’re not going to be able to block on reaction. 
+
+
+## Blocking Overheads 
+![](images/2023-05-11-19-04-52.png)
+Ryu’s Overhead (F+MP), on the other hand, is a move that you can block on reaction. 
+
+Because its Startup is 20 frames, if you had an average reaction time of 16 frames, you would theoretically be able to block on reaction with enough practice.  
+
+However, when you factor in the inherent input lag in your controller, monitor,  console/PC, and the time it takes for packets to travel across the internet, you start to understand why serious players will spend the time and money it takes to reduce input lag as much as possible. 
+
+## Startup Frames In-Depth
+
+With a better understanding of what we can react to and what we can't, let's delve deeper into the startup frames. 
+
+![](images/2023-05-11-17-00-03.png)
+
+Ryu's standing light punch, for instance, has a startup of four frames. Reviewing all of his grounded normals, you'll find that none have a startup faster than four frames, including his crouching light punch. 
+
+This is one of the significant changes in Street Fighter 6's game engine compared to its predecessors. In Street Fighter III: 3rd Strike, IV, and V, there were no normals with a startup of less than three frames. 
+
+On the surface, this one-frame difference might seem insignificant, especially since no one can react to a three or a four-frame jab. However, it has a notable impact on gameplay.
+
+In the beta version of Street Fighter 6, none of the eight characters have any moves that start in less than four frames, including their Super moves.  
+
+Generally, Level 1 Supers have a 7-8 frame startup, while Level 3 Supers like Ryu’s Shin-Shoryuken have a 5 frame startup. 
+
+This change, I believe, is part of Capcom's efforts to modernize the franchise. Prior to Street Fighter 4, Capcom didn't have to consider netplay during development. 
+
+Games like 3rd Strike were primarily designed for the arcade environment with no capacity for online play and generally standardized hardware. 
+
+Arcade cabinets typically used CRT monitors, which have lower latency than the LCD monitors connected via HDMI cables found in today's consoles and PCs. HDMI introduces about one frame of lag. 
+
+With Street Fighter 6, it's clear that the online component is a much higher priority for Capcom. 
+
+Playing side by side or head to head on a CRT monitor is much different than playing online on non-standardized hardware. 
+
+This shift in focus is also evident in the higher startup frames for Supers in Street Fighter 6 compared to Street Fighter V. 
+
+In Street Fighter V, Ryu's and Ken's supers had a six-frame startup, while their equivalent in Street Fighter 6, their super-art 1, both have seven-frame startups. 
+
+This increase, I believe, is to compensate for the introduction of one-button Supers in modern mode, another adjustment Capcom is making to modernize the franchise. 
+
+The overall increase in startup frames also extends to invincible reversals in this game, such as Ryu's DP. 
+
+In Street Fighter 5, Light and EX DP both had three-frame startups, while in Street Fighter 6, Light DP has a five-frame startup, and OD DP has a seven-frame startup.
+
+The difference between a three and five-frame DP is quite significant. 
+
+For instance, it affects safe jump setups - perfectly timed jump-ins on an opponent getting up from a knockdown. 
+
+If the opponent does a wake-up invincible reversal, the attacker can block the DP because they've already hit the ground. If the defender doesn't DP, they're forced to block the jump-in. 
+
+In Street Fighter IV and V, characters with a three-frame invincible reversal, like Ryu, had an advantage over characters like Guile, whose Flash Kick comes out in four frames.  This difference of a single frame meant that you could safe-jump Guile, but not Ryu.  
+
+However, in Street Fighter 6, it seems the fastest invincible reversal you can hope for is five frames. 
+
+This makes safe jump setups more important in this game compared to previous versions.
+
+### Getting Hit During Each Stage
+
+But what happens if you get hit during the Startup frames of a move?
+
+In this scenario, the attacker will score a Counterhit.
+
+Counterhits result in an extra two frames of hit advantage for the attacker.
+
+We'll talk more about Counterhits later in the chapter
+
+If a move is hit during its Active frames, this results in what's called a trade.  In this scenario, both players take damage.
+
+However it can also result in one of the players being able to convert the trade into a combo, such as by following up with a Super.  This is rare, but it is possible.
+
+Now what happens if you hit an attack during the Recovery frames?
+
+In this scenario, the attacker gets in this scenario instead of getting an extra two frames of hit advantage.
+
+The attacker is rewarded with an extra four frames of hit advantage plus the damage boost.
+
+This allows for punish counter specific combos in the same way that regular counter hits result in Counterhit-only combos.
+
+Ryu’s st. HP has 18 frames of recovery, which makes it pretty challenging to Punish Counter.  So that's not something that you're going to see all the time.
+
+What's far more common is punishing a blocked invincible reversal like a DP or punishing a whiffed throw, as you have way more time to react.
+
+## Understanding the "On Hit" Column
+
+In this section, we'll explore the "on-hit" column, focusing on Ryu's standing Medium Punch. 
+
+When this move hits, you're granted a seven-frame window to perform another attack and have it combo.
+
+This is called ***frame advantage*** because you are able to start your next move before the opponent can act because the opponent is in hitstun.
+
+> [!tip] 
+> Having frame advantage is also referred to colloquially as being “plus,“ so you might hear someone say:
+> 
+> “Ryu’s standing Medium Punch is plus seven on hit.”
+
+This seven-frame window provides Ryu the flexibility to link into several other attacks, including:
+
+1. Standing Light Punch
+2. Standing Medium Punch
+3. Standing Light Kick
+4. Crouching Light Punch
+5. Crouching Medium Punch
+6. Crouching Light Kick
+7. Back Heavy Punch
+
+![](images/2023-05-11-23-23-59.png)
+
+Let's rank these options from best to worst:
+
+1. **B+HP** - This move is the best option because it deals 800 damage and can be canceled into specials and supers. However, it does not have a good range, so it may not connect unless you're very close to the opponent. Also, this move is only available in Classic mode. If you're using Modern Controls, this move isn't an option.
+
+2. **cr. MP** - This is the second-best option because it deals 700 damage, can be canceled into specials and supers, and has a decent range. Even if you're not right next to the opponent, it'll likely connect. With Modern Controls, there's a slight execution requirement because you have to hold the auto button and press medium, or press them simultaneously for the move to come out.
+
+3. **st. MP** - The third-best option deals 600 damage, can be canceled into specials, and has good range. This move is easier to execute because you simply press the same button again if you're using modern controls.
+
+> [!note] His MP > LK target combo would also work, but it has the same startup as st. MP by itself, so it’s considered the same option.
+
+5. **st. LP, cr. LP, st. LK** - All three of these options are viable but they don't deal as much damage as the previous ones. However, they can be canceled into specials. Generally, there's no reason to choose these moves over the others since they deal less damage.
+
+6. **cr. LK** - This move is the worst option because it deals the least damage and cannot be canceled into specials. The combo would end with this move since it's not special cancelable.
+
+Understanding these options and their ranking can help you decide on the best combo strategy during gameplay.
+
+![](images/2023-05-12-00-25-51.png)
+
+### Understanding the “On Block” Column 
+We've already explored what happens when Ryu's standing Medium Punch hits. Now, let's consider what happens if it gets blocked.
+
+On block, Ryu's standing Medium Punch is minus one. This might be a new concept if we've only discussed positive frame advantages up until now. Being negative, or minus on block, refers to a situation where the opponent can act before you can. It's akin to them having a head start in a race. The more negative you are on block, the more punishable the move is.
+
+Even though being minus one on block might not seem significant, it is. In the language of fighting games, if you're minus on block, your "turn" is effectively over. This concept of "turns" refers to the idea that if you're plus, whether that's on hit or on block, you get to attack again. If you're minus, your turn ends because the opponent gets to act before you do.
+
+For instance, if Ryu's standing Medium Punch is blocked, leaving him minus one, and he tries to do another standing Medium Punch, but his opponent also initiates a standing Medium Punch at the same time, the defending Ryu's punch would win. 
+
+Even though both moves have a six-frame startup, the defending Ryu has a one-frame advantage because the attacking Ryu is minus one after the first punch. 
+
+The defending Ryu would not only win the interaction, but he would also score a counter hit, resulting in a damage boost of 20% as well as two extra frames of hit advantage (+9 instead of +7).
+
+> [!note] How it worked in SF4 and SFV
+> Players who have experienced Street Fighter IV or V might notice significant differences in Ryu's move set. For example, in the previous games, Ryu had more moves that were plus on block, such as standing Medium Punch and crouching Medium Punch, both of which were plus two on block. However, in Street Fighter VI, Ryu only has two moves that are plus on block, and they aren't as easy to apply pressure with as his normals in Street Fighter V.
+> 
+> Being plus two on block in Street Fighter V was kind of like the magic number because throws have a five-frame startup. 
+> 
+> If you're plus two on block, and the normal doesn't have very much pushback, the defender has to decide whether you're going to attack again, throw, or stop your offensive pressure.
+> 
+> If you continue the pressure, both st. MP and his throw have a startup of 5 frames.  Both are potentially very damaging.
+> 
+> If the opponent continues to block, then they'll either block the second hit, the standing medium punch, or they're at risk of being thrown.
+> 
+> If they think that that you're going to throw after the standing light punch, they might tech the throw with a throw of their own.  
+> 
+> But if instead of the throw, you went for the st. MP, their throw would lose to your st. MP because you had +2 frame advantage after they blocked intial st. LP.  
+> 
+> This was a big part of the way offensive pressure worked in SFV. 
+
+
+This might seem like Ryu has been nerfed in Street Fighter 6, but it's more about changes in the game's overall mechanics. In Street Fighter IV and V, many characters had several normals that were plus on block, allowing them to apply almost continuous offensive pressure. Street Fighter 6 has dialed that back, resulting in a different dynamic in up-close pressure. 
+
+So then what are you supposed to do? 
+
+At least in the early days of SF6, you’ll likely be able to get away with another st. MP or cr. MP, which could then be canceled into a Fireball for some easy chip damage if it was blocked.
+
+> [!warning] Don’t forget to take into account that the second st. MP starts from -1 frame advantage, essentially changing a 6 frame startup to a 7 frame. 
+
+You might also be able to get away with a throw against some players.  
+
+However, as players get used to the game and start to catch on, it likely won’t be long before they begin checking moves that are -1 with their fastest normal.  
+
+This is something to watch out for when facing Modern Control players.  
+
+If you choose to continue your offensive pressure with another crouching Medium Punch after the first one, here's what might occur based on the opponent's potential responses:
+
+1. **Opponent's Crouching Medium Kick**: This move would lose to your second crouching Medium Punch, as it has an eight-frame startup, making it two frames too slow.
+
+2. **Opponent's Crouching or Standing Medium Punch**: These would trade hits with your crouching Medium Punch, resulting in a counter hit for both players. However, the situation would essentially be reset.
+
+3. **Opponent's Throw**: You might think a throw, with its five-frame startup, could disrupt your sequence, but it won't. Your crouching Medium Punch will beat the throw and score a counter hit because the throw's range isn't sufficient to connect with the crouching Medium Punch.
+
+4. **Opponent's Crouching Light Kick**: This move has a five-frame startup, so it could beat your crouching Medium Punch. However, the crouching Light Kick isn't cancelable into anything, so it won't bring a significant advantage.
+
+5. **Opponent's Standing Light Kick**: Here things get interesting. The standing Light Kick also has a five-frame startup, but it is cancelable. The opponent could cancel the standing Light Kick into a Light Donkey Kick for a quick 1,200 damage.
+
+Moreover, the standing Light Kick is the start of Ryu's Auto Combo 1 (st. LK xx LK Donkey Kick), which is performed by holding AUTO and pressing Light twice. 
+
+> [!tip] This can be executed from a low blocking position.  AUTO + Light forces Ryu to perform a standing Light Kick, even if you continue to hold down back. 
+> 
+
+Depending on screen positioning, this could even result in the Light Donkey Kick being canceled into his Level 3 Super.
+
+All this potential damage comes from you choosing to go for a second crouching Medium Punch with a six-frame startup. 
+
+Because the standing Light Kick has only a five-frame startup, it can interrupt your sequence and turn the tables. Given this, many modern players are likely to get significant mileage out of this strategy, as it can be easily mashed out during tense exchanges.
+
+To counter this, swap the second cr. MP with st. LP, which only has a 4 frame startup.  
+
+If the defending Ryu mashes st. LK, your st. LP will beat it, scoring a Counterhit, which can be followed by a st. LK xx LK Donkey Kick of your own.  
+
+
+---
+
+# Drive Gauge at a Glance
+
+
+# Drive Gauge
+## What is it?
+Drive Gauge is a resource that can be used offensively and defensively.  Both players start every round fully stocked with 6 bars.
+
+## Why is it important?
+- It starts at 100% each round.
+- It doesn't carry over to the next round, therefore there's no point in saving it/dying with it.
+- 
+
+## How does it fit in with the big picture?
+- In SFV, your EX moves and your Critical Art came used the same bar, meaning you would sometimes have to choose between being able to use your EX and doing a CA.  Now, they are separate.
+- Since it refills each round, you don't need to worry about conserving it for the next round. 
+- It can be used to extend combos ([[Drive Rush]]) put them in okizeme situations (Drive Rush), or as a counter ([[Drive Counter]])
+- You lose Drive Gauge when you block, which penalizes overly defensive strategies.  
+
+## What are some ways to use it
+- OD (or EX) moves cost 2 bars
+- Drive Rush costs 3 bars
+- Drive Counter costs X bars.  
+- Drive Impact is similar to focus attack and costs 1 bar.
+- Parry attempts cost 0.5 bar
+
+## How does it work?
+1. You start each round with a full Drive Gauge (6 bars)
+2. OD Special Moves do more damage and have different properties such as knockdown, juggle state, wall bounce, etc.
+3. Combos can be extended with Drive Rush.
+4. Mixups can be initiated by canceling a Normal into Drive Rush. 
+
+```ad-danger
+If you run out of bar, you enter [[Burnout Mode]]
+```
+
+6. Drive Impact can be used like a Focus attack, absorbing multiple hits.
+7. Drive Counter is similar to an Alpha Counter or V-Reversal, allowing the defender to push the attacker off. 
+8. Each bar takes about five seconds to regenerate after it's used.  Blocking will stop the bar from regenerating. 
+
+## Examples
+### OD Special Moves
+- Ryu's EX Donkey Kick gives him a wall bounce that can combo into Super. 
+- Ken's EX Dragon Kick gives him a ground bounce and a side switch that can combo into HP DP. 
+- Kimberly's EX Spin Kick gives her invincibility on startup, making it a strong "get off me" defensive move. 
+
+# [[Drive Rush]]
+- Ryu's Axe Kick -> blocked -> LP Palm -> HP DP xx Level 3
+- Ryu's st. HP -> blocked -> LK Donkey Kick *trade* -> HP DP
+- Ken's TC1 -> hit -> 
+
+# [[../../../../System Mechanics/Drive Impact]]
+- Similar to Focus Attack
+- On block with them in the corner, you get a crumple.
+- Midscreen, you generally only get pushback.
+- Can absorb 3 hits.
+- 26F startup.
+- 
+
+---
+
+# The Drive System Part I - Drive Rush & Parry Drive Rush
+
+
+Dri---
+created: 2023-04-01 10:37 AM
+updated: 2023-04-27 12:10 PM
+title: The Drive System Part I
+tags: drive-gauge drive-rush parry-drive-rush
+---
+
+## Drive System Overview
+
+The drive system is one of the biggest changes in Street Fighter 6 compared to Street Fighter 5. The drive system allows for all kinds of defensive and offensive options, and it's the resource system that you'll be using most frequently in the game. It's represented by the drive gauge, which you can see underneath the life bar. Both players start each round with a full drive gauge.
+
+## Impact on Gameplay Dynamics
+
+Because you start each round with a full drive gauge, all the different options the drive gauge gives you access to are available immediately at the beginning of each round. 
+
+This changes the dynamic of the opening round compared to previous Street Fighter games. 
+
+In Street Fighter IV, V, and III: Third Strike, you start with zero resources and build them up as the round progresses.
+
+For example, in Street Fighter 5, special moves can be upgraded to EX special moves by spending one of your four available EX stocks. 
+
+EX special moves typically have special properties. 
+
+Ryu's EX fireball, for instance, hits twice instead of once and knocks down. 
+
+His EX Donkey Kick gains the wall bounce property, which means you can juggle afterwards. 
+
+EX DPs, like Ken and Ryu, gain invincibility, extra damage, and additional hits. 
+
+But at the beginning of the round, none of this is available, which means that your offensive options are limited during the early part of the first round.
+
+## OD Moves 
+In Street Fighter 6, EX moves have been replaced by OD Moves, which work the same way, except they cost two stocks of drive gauge. So one third of your bar, and you start each round with all six stocks. 
+
+In Street Fighter V, your EX stocks carry over from round to round, but in Street Fighter 6, you start each round with all six. 
+
+In Street Fighter V, your V-Gauge would reset every round, incentivizing you to use your V-Trigger, V-Reversal, or V-Dash since it's going to reset at the end of the round anyway.
+
+> [!note]
+The last Street Fighter game that started you off with all your offensive resources was the Alpha series, and the Marvel vs. Capcom series also starts you with one super meter.
+>
+> If you played any of those games, that should give you a better idea of how starting with resources affects the beginning of each round.
+
+## Encouraging Faster Openings
+In Street Fighter 6, not only are you incentivized to use your drive gauge every round, but you also have the option to use any drive gauge options from the very beginning of the round. 
+
+This encourages a faster opening of each round because, in addition to the OD Moves that are immediately accessible, there are also Drive Rush Cancels and Drive Rush Parry. We'll get into those next.
+
+## Drive Rush Cancels
+
+### Understanding Drive Rush
+
+Drive Rush is performed by inputting a dash during a normal that is special cancelable. 
+
+It costs three Drive Gauge stocks, which means you can only do a maximum of two before you run out of meter. 
+
+Drive Rush allows you to cancel a normal into a dash, which carries you forward quite a long way and adds a significant amount of On Hit frames. 
+
+In addition to the first Normal that you Drive Rush, the second Normal you connect with gains +4 on hit and on block.
+
+### A Basic Example with Ryu
+> [!caution]
+> cr. MK xx Drive Rush, st. HP, B+HP xx HK Donkey Kick (**2179 dmg**)
+
+Ryu can Drive Rush Cancel his cr. MK (or any other normal that’s cancelable). 
+
+![](images/2023-04-08-05-28-21@2x-1.png)
+
+If the cr. MK hits, he is +11.  If it’s blocked, he is +4.
+
+Without canceling into Drive Rush, cr. MK is only +1 on hit. So by canceling into drive rush, you get an extra 10 frames of advantage. 
+
+Since he's now +11 after the drive rush cancel, it opens up new combo opportunities that wouldn't be possible otherwise, such as linking into st. HP, which has a 10-frame startup.
+
+Because cr. MK is normally only +1 on hit, you wouldn’t be able to link into st. HP without Drive Rush.  
+
+But with Drive Rush, this new link is possible and pretty easy to do.  
+
+So then what happens after this st. HP hits?
+
+#### Without Drive Rush 
+Off of a normal st. HP (without the preceding Drive Rush), you aren’t able to link into another normal because it's only +3 on hit.  
+
+![Source: fullmeter.com](images/2023-04-08-05-29-44@2x.png)
+
+Since Ryu doesn’t have any attacks with a 3F startup, your only option would be to cancel the st. HP into any of his special moves, such as his fireball, DP, or Donkey Kick, which would be the end of the combo.
+
+#### After Drive Rush
+In this example, the Hit Advantage of the original cr. MK increases after the Drive Rush Cancel (going from +1 to +11)
+
+After the cr. MK drive rush cancel, st. HP goes from being +3 on hit to being +7 on hit after the Drive Rush. 
+
+![Source: fullmeter.com](images/2023-04-08-05-29-44@2x.png)
+
+This is because the frame advantage increase from the Drive Rush Cancel applies to the first and second hit of the combo.  
+
+> [!caution]
+> The `dr-oH >` and `dr-oB >` columns of the frame data on fullmeter.com are always +4 of their `oH` and `oB` counterparts.
+
+
+This four-frame increase from +3 to +7 On Hit allows you to link into another normal with a startup of seven frames or less. 
+
+> [!tip]
+> Ryu only has one grounded 7F normal: his B+HP, which does 800 damage, forces a stand on hit, and is cancelable into a special move or any of his supers. 
+
+
+
+![Source: fullmeter.com](images/2023-04-08-05-33-07@2x.png)
+The B+HP can be canceled into HK Donkey Kick, resulting in total damage of 2179 and significant corner push.  However, that would likely be the end of the momentum, as the opponent would be pretty far away. 
+
+![Source: fullmeter.com](images/2023-04-08-08-41-52.png)
+
+> [!tip]
+> Alternatively, you could substitute the HK Donkey Kick for HP DP, which would increase the damage by 51 points to 2230.
+
+Without doing the Drive Rush Cancel, you would be limited to `cr. MK xx MK Donkey Kick`, which only does 1380 damage, by comparison. 
+
+However, through the use of Drive Rush Cancel at the cost of three Drive Gauge stocks, you increase the damage from 1380 to 2179 in this basic example.
+
+This is a 58% increase in damage at the cost of half of your Drive Gauge!  
+
+> [!tip]
+> When considering whether it's worth it to spend the bar, don't just consider the damage and percentage increase.  
+> 
+> Remember to also consider the positioning, the life bars, and both player's Drive Gauges.
+
+
+
+#### Is it worth it?
+A 58% increase in damage certainly seems like a big increase.  But is it worth the bar? 
+
+That depends on the situation, as there could be times where you can end the round through spending the remainder of your bar.  
+
+This example just illustrates the combo extension possibilities that are afforded from landing one cr. MK.  
+
+There are many other situations where it might not be worth it to spend half your Drive Gauge because an OD Special Move might be a better choice.
+
+#### OD Donkey Kick Alternative
+Consider this combo that also starts with cr. MK: 
+
+> [!caution]
+> cr. MK xx OD Donkey Kick (*wall bounce*), B+HK xx MP DP (**2140 dmg**)
+
+By spending two Drive Gauge stocks on OD Donkey Kick, you deal 2140 instead of 2179 damage, a decrease of 39 points or about 1% less.  
+
+You also can continue the offensive pressure because the MP DP doesn’t push the opponent as far away as the HK Donkey Kick does.
+
+So although you do 1% less damage with the OD Donkey Kick, you are spending 33% less of your Drive Gauge because it only costs you two bars instead of three.  
+
+> [!warning]
+> The OD Donkey Kick example only works if you're far enough away from the corner that the B+HK will connect.  If you're too close to the corner, they'll fly over your head.
+
+## Parry Drive Rush
+
+Parry Drive Rush is another offensive tool that’s part of every character’s Drive System repertoire.
+
+It’s similar to Drive Rush Cancel in the sense that it can be used to initiate offense as well as extending combos.
+
+You perform the Parry Drive Rush by inputting a dash while holding down the parry (MP+MK). 
+
+This is definitely the mechanic that I found most confusing.
+
+Admittedly, it's probably also the one that I know the least about. But I'm going to do my best.
+
+### Why Parry Drive Rush is confusing
+
+Part of the reason why I think this particular mechanic is confusing is because of its name and also its input.
+
+As we'll cover later in more detail, the Drive Parry is a defensive mechanic that's similar to the parry in Street Fighter III Third Strike as well as the parry mechanic that some characters like Ryu and M. Bison have in Street Fighter V.
+
+But that's where the similarities end, because the Parry Drive Rush, to my knowledge, can't be used defensively, at least not in the way that you would expect.
+
+You might think that because the input is done starting with the parry, you can parry an attack and then Parry Drive Rush into a counter-attack. 
+
+Unfortunately, it just doesn't work that way because when you do a regular Drive Parry, you don't get anywhere near the number of frames required for the Parry Drive Rush to connect.
+
+It might be possible after a Perfect Parry, but at this point, it also doesn't even seem necessary because you have so much time when you hit a perfect parry that you wouldn't need to Parry Drive Rush.
+
+The other reason why it's confusing is the input. 
+
+Because of the name and the input, you think that it is somehow connected to the regular Drive Parry, but it's not.
+
+### Using Parry Drive Rush as a combo extender
+
+Let's take a closer look at how it can be used as a combo extender.
+
+First, we're going to examine the input. In order to Parry Drive Rush, you have to hold parry (meaning holding MP and MK together), and during the parry animation, which you can hold for an extended period of time, if you input the dash (meaning if you tap forward twice), then you get the Parry Drive Rush, which looks quite similar, if not exactly the same, as the Drive Rush Cancel.
+
+But it's not the same as the Drive Rush Cancel because instead of canceling a normal into the Drive Rush, which results in a dash, in this case, you're canceling the parry animation instead. 
+
+So that means it can be executed in the middle of a combo as a means to close the gap through the dash and then extend the combo with a juggle.
+
+#### Ryu Parry Drive Rush Combo Extension #1 
+For example, if Ryu has "Denjin Mode" activated by pressing `D, D+P`, the palm gets a juggle potential boost. If you hit them with the palm while they're in the air, they'll stay in the air longer if you have Denjin Mode activated.
+
+The extra time they spend in the air gives you enough time to Parry Drive Rush, which moves you forward and then allows you to juggle with st. HP or cr. HP, which you can then cancel into a special, such as HK Donkey Kick, or canceling into his Level 3 Super.
+
+Here's the example:
+
+After activating Denjin Mode with `D,D+Punch`, follow these steps to perform the combo:
+
+1.  Land a cr. MK to start your combo. It's a solid low attack that can catch your opponent off-guard.
+2.  Cancel the cr. MK into the Overdrive (OD) Donkey Kick by performing a QCF+KK. The OD version of Donkey Kick has a wall bounce property.
+3.  After the wall bounce, your opponent will be in a juggle state. Perform the Palm (QCB+P) to juggle as they bounce off the wall.  Because Denjin is active, the Palm will keep your opponent airborne for a bit longer.
+4.  Hold Parry (MP+MK), then dash (F, F) and release Parry to do the Parry Drive Rush.
+5.  As your opponent is falling to the ground and the Parry Drive Rush carries you forward, press st. HP and cancel into HK Donkey Kick.
+
+In summary, the combo sequence is: 
+> [!example] Activate Denjin > Crouching Medium Kick > OD Donkey Kick > Wall Bounce > Palm > Parry Drive Rush > Standing Heavy Punch > HK Donkey Kick
+
+This deals *2,705 damage* at the cost of three of your Drive Gauge bars: *two for the OD Donkey Kick* and *one for the Parry Drive Rush*.
+
+What makes Parry Drive Rush so interesting is its low cost compared to Drive Rush Cancel. 
+
+Drive Rush Cancel costs three bars or half of your Drive Gauge, whereas Parry Drive Rush only costs one bar or one-sixth of your Drive Gauge. 
+
+So it costs 1/3 as much as Drive Rush Cancel does.
+
+This means that if you have the opportunity to extend a combo with it, it's almost always going to be worth it to spend one bar to do so. 
+
+The only time it might not be worth it is if you only had one bar left. 
+
+Other than that, it seems like it would always be worth it given the opportunity to extend the combo.
+
+#### Parry Drive Rush and Its Connection to Street Fighter IV
+
+As a side note, Street Fighter IV players might find the Parry Drive Rush to be somewhat reminiscent of Focus Attack Dash Cancel (FADC) in Street Fighter IV. 
+
+You could use the FADC to cancel special moves into a dash and extend the combo, and it was done with the same input - holding MP and MK together and then tapping forward twice. 
+
+In Street Fighter IV, MP and MK were the commands for Focus Attack. Other than that, the input and its usage are pretty similar.
+
+In Street Fighter IV, you could cancel a special move with FADC at the cost of two bars. 
+
+Ryu could perform a `MP DP → FADC Ultra`, which would allow him to cancel the DP into a dash and then juggle with the Ultra. 
+
+Street Fighter IV players will also remember that you could absorb a hit while charging the Focus Attack and then cancel the Focus Attack into a dash. And this tactic didn’t cost any meter at all.
+
+This leads us to another way that you can use Parry Drive Rush, which is to initiate offense.
+
+### The “After Drive Rush” Columns 
+To better understand how Parry Drive Rush works, we need to look at the "after Drive Rush on hit" and "after Drive Rush on block" columns. 
+
+
+![Source: fullmeter.com](images/2023-04-08-08-32-42@2x.png)
+
+It wasn't until I had the frame data in front of me, thanks to fullmeter.com, that I was able to understand this mechanic. 
+
+When you parry Drive Rush and then press a button, the "after Drive Rush on hit" and "after Drive Rush on block" columns come into play. 
+
+When you start offense this way, the frame advantage is the same as it is on the second hit after a Drive Rush Cancel.
+
+Recall that in the earlier Drive Rush Cancel example, we started with `cr. MK xx Drive Rush Cancel, st. HP`.
+
+![Source: fullmeter.com](images/2023-04-08-08-41-52.png)
+
+The cr. MK is +11 off of a Drive Rush Cancel that hits, and the second move, st. HP, is +7 after Drive Rush on hit. 
+
+If you perform a Parry Drive Rush followed by a st. HP and it hits, you'll be +7. If it's blocked, you'll be -3. 
+
+This is because the `after Drive Rush on hit` and `after Drive Rush on block` columns are always +4 more than the regular on-hit and on-block columns. 
+
+> [Shout outs to Juicebox Abel for pointing that out, as I haven't seen anybody else make that observation.] 
+
+### Initiating Offense with Parry Drive Rush
+
+In addition to extending combos by performing a Parry Drive Rush in the middle of a combo, the other way to use it is by initiating offense with it. 
+
+The best example to illustrate why this is useful is with Ryu's Parry Drive Rush Overhead. 
+
+First let’s take a closer look at the frame data of the Overhead by itself, without the Parry Drive Rush.
+
+![Source: fullmeter.com](images/2023-04-08-09-24-27-1.png)
+
+1. F+MP is the input. 
+2. Ryu's Overhead has a 20-frame `Startup` and, even though it only does 600 damage, it has to be blocked high. 
+3. `On Block`, it's -3, which basically makes it unpunishable.
+4. `On Hit`, it's +2. 
+
+Being -3 On Block makes it essentially unpunishable because there are no three-frame normals or specials.  The fastest normals are four frames in SF6. 
+
+Additionally, there are no invincible reversals that come out in less than five frames. So, -3 in this case means it's safe, but if they block it, it's the end of your turn.
+
+![Source: fullmeter.com](images/2023-04-08-09-31-17.png)
+
+When using Parry Drive Rush into Overhead, the overhead leaves you +6 on hit and +1 on block. 
+
+Being +6 on hit is good enough to combo into a st. MP, which has a 6-frame startup, or a cr. MP, which also has a 6-frame startup. 
+
+Let's go with cr. MP for now, which does 700 damage instead of the 600 damage from st. MP.
+
+With this example, you could perform a Parry Drive Rush Overhead and, if it connects, link into a cr. MP, cancel into a medium Donkey Kick, and then cancel that into Ryu's Level 3 Super, the Shin Shoryuken. 
+
+This would deal 4580 damage, which is an absurd amount of damage to get off an overhead with Ryu. 
+
+> [!note]
+> In previous iterations of Street Fighter, such as 3rd Strike, Street Fighter IV, and Street Fighter V, it wasn't possible to get major damage off of an overhead with Ryu.
+> 
+> Typically, only a handful of characters like Dudley in 3rd Strike and Street Fighter IV, and maybe Urien in Street Fighter V, can convert an overhead into highly damaging supers. 
+
+With Parry Drive Rush, even Guile becomes an offensive threat because his overhead gets enough frame advantage after Parry Drive Rush to link into his Standing MP, B+HP Target Combo, leading to big damage in the corner. 
+
+There might be more ways to use Parry Drive Rush, but those are the two main ways that I'm aware of. 
+
+And because it only costs one bar and you start with six, that means you could theoretically attempt six Parry Drive Rushes to try to get your offense going from the start of the round. 
+
+It's probably not the best idea, as strong players won't let you get away with that. But it's likely the best deal, so to speak, in Street Fighter 6 because it only costs one bar and doesn’t require connecting with a normal like Drive Rush Cancel.
+
+Drive Rush Cancel seems expensive by comparison and more limited because you have to make contact with the opponent in order for it to come out.  If they block, you may have just wasted half your Drive Gauge! 
+
+Whereas with Parry Drive Rush, you can throw it out in the neutral game without needing to make contact, and it only costs one bar instead of three.  If they block, you’re only out one-sixth of your bar, instead of half. 
+
+It also allows for new combo possibilities that didn't exist before, such as being able to connect your Level 3 Super from an Overhead in the corner.
+
+Overall, this new mechanic enables characters like Ryu and Guile to deal significant damage off an overhead, which was not possible in previous games. 
+
+Parry Drive Rush is not only cost-effective at just one bar, but it also opens up the potential for creative offensive strategies and gameplay for players to explore.
+
+---
+
+# The Drive System Part II - Drive Impact
+
+
+## Drive Impact: The Defensive Offense Tool or The Offensive Defense Tool
+We talked about how Drive Rush Cancel and Parry Drive Rush are two of the three offensive systems of the Drive System as a whole. Now, let's discuss Drive Impact, which can be used offensively and defensively.
+
+Imagine the Drive System as a pentagon with offensive options on the left and defensive options on the right. Square in the middle is the Drive Impact, because it can be used both offensively and defensively.
+
+To perform Drive Impact, press Heavy Punch (HP) and Heavy Kick (HK) together, and your character will lunge forward with a mid-range, mid-level attack that also comes with ***two hits of armor***! 
+
+Each character’s Drive Impact has a startup of 26 frames with 2 active frames, which might seem long, but is just under half a second.  The total frames of each character’s DI is 62 frames, so it’s 35 frames of recovery makes it a high-risk, high-reward momentum shifter. 
+
+> [!note]
+> If you've played Street Fighter 4, you might notice similarities between Drive Impact and Focus Attack, particularly the armor and the crumple state you get from hitting Level 2 or Level 3 Focus Attack.
+
+However, in Street Fighter 6, there's only one level of Drive Impact, and you can't hold it to delay when it comes out. 
+
+Inputting the Drive Impact costs one of your Drive Gauge stocks, so you can’t throw it out recklessly and have to be aware of your screen position and meter.  
+
+However, since you can absorb two hits due to its armor, you can DI pre-emptively against projectiles and other incoming mid-range moves.  
+
+If you score a clean hit, the opponent is knocked back in an airborne state and gets pushed about half-screen towards the corner.  They also lose one of their Drive Gauge stocks.  It seems like the average DI does 800 damage, though Jamie and Kimberly only do 720.  
+
+If you absorb a hit and score a Counterhit, you get a 20% damage boost, so a standard 800 damage DI gets bumped up to 960 damage and still scores a knockdown.  The opponent loses 1.25 Drive Gauge stocks. 
+
+If you score a Punish Counter, you get a big crumple that gives you plenty of time to land a high-damage combo, in addition to the 20% damage bonus from the DI itself.  The opponent loses 1.5 Drive Gauge stocks in this instance.  
+
+If it’s blocked, the opponent is pushed back towards the corner in a blowback/stagger state, leaving you at -3F, which isn’t punishable, but does reset the situation.  The opponent only loses 1/2 of a Drive Gauge stock if your DI is blocked. 
+
+However, if Drive Impact connects while the opponent is near the corner, the pushback causes the opponent to hit the wall which triggers a Wall Splat state and you have an opportunity to convert into a combo.  The opponent still only loses 1/2 of a Drive Gauge stock, but the extra damage opportunity makes up for it.
+
+> [!tip] Even if they barely touch the wall, you'll still get the Wall Splat, so be on the lookout for DI opportunities when the opponent is about 1/4 of the screen from the corner. 
+
+
+| Situation         | Damage                           | Opp. Drive Gauge Loss | Additional Effects                                                    |
+| ----------------- | -------------------------------- | ---------------- | --------------------------------------------------------------------- |
+| Hit         | 800 (720 for Jamie and Kimberly) | 1 stock          | Opponent knocked back and airborne, pushed half-screen towards corner |
+| Counterhit        | 960                              | 1.25 stocks      | 20% damage boost, scores knockdown                                    |
+| Punish Counter    | 960                              | 1.5 stocks       | 20% damage boost, crumple, combo opportunity                          |
+| Blocked           | N/A                              | 0.5 stock        | Corner push, -3F but still safe, resets situation                     |
+| Blocked (Corner)  | Varies based on follow-up        | 0.5 stock        | Wall Splat state, combo opportunity                                   |
+| Blocked (Burnout) | 200                              | Recovers 6 stocks        | Dizzy, Wall Splat, combo opportunity                                  |
+| Hit (Burnout)     | 800                              | Recovers 6 stocks              | Dizzy, Wall Splat, combo opportunity                                                                      |
+
+You can also cancel normals into Drive Impact. In the corner, this can be particularly effective, as it almost always guarantees a dizzy against opponents who are already in Burnout.
+
+The dizzy gives you plenty of time to unload with your highest damaging combo, so be ready to capitalize on this massive opportunity!  
+
+> [!tip] After the dizzy, the opponent immediately regains all six of their Drive Gauge stocks, so remember to keep an eye on your Drive Gauge or they might quickly return the favor!
+
+## Countering Drive Impact
+There are several ways to counter Drive Impact, but it’s worth noting that in the heat of battle, especially online or on a laggy setup, this can be easier said than done.  
+
+1.  Use a Drive Impact of your own to absorb their hit and counter with a full crumple Punish Counter with the 20% damage boost. There's no tricky timing involved; if you see it coming, throw yours out, and whichever one comes out last wins. If they hit on the exact same frame, both characters are pushed back significantly, but this is rare.  Also, if you counter the opponent’s DI with your own, they lose 2.5 stocks total (1 for the attempt, 1.5 for getting Punish Countered).
+2.  Throw the opponent out of Drive Impact during its startup frames, which scores a Counterhit and 20% damage bonus, so typically 1,200 damage total.  You have to be right next to the opponent and either had godlike reactions or have anticipated they were going for the DI.  This means DI generally can't be used effectively wakeup, even with its armor. However, if the active frames are already out and you go for the throw, you'll just get Counterhit and crumpled for your troubles.
+3.  Neutral jump and bait Drive Impact, then use a heavy button into a combo to Punish Counter it.  This is most effective when you’re between 1/4 and 1/2 screen away from the opponent.  Your neutral jump has to be somewhat pre-emptive, as if you try and do it on reaction, you’ll likely get hit as you’re leaving the ground.  
+4.  Use a move with armor-breaking properties (e.g., Guile's Level 1 Sonic Hurricane). Not all characters may have such a move, and typical reversals like Dragon Punches (DPs) or Guile's Flash Kick won't break armor, though powered-up multihit specials like an OD Flash Kick or OD Sonic Boom will do the trick if you cancel a normal like cr. MP first (remember, the DI has two hits of armor). 
+5. Connect with three hits in quick succession before the DI makes contact with you.  This seems to be the most difficult option and generally impractical in most situations.  There may be characters that are able to land three-hit combos without spending Drive Gauge on an OD Special, but it’s too early to tell.  
+
+### Drive Impact Counters At a Glance 
+| #   | Method                                          |                 Damage | Notes                                                                                                                                                                                                                       |
+| --- | ----------------------------------------------- | ----------------------:| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Counter with Drive Impact                       | 960 + follow-up damage | Opponent loses 2.5 stocks total.                                                               |
+| 2   | Throw during DI startup frames                  |         1,200 (approx) | Requires being next to opponent and having good reactions or anticipation.                                                                                                     |
+| 3   | Neutral jump and then combo                     |                 Punish Counter bonus |  Requires pre-emptive neutral jump to avoid getting hit while leaving the ground.                                                                                                 |
+| 4   |        Connect with three hits before DI makes contact                  |                 Varies | Difficult and generally impractical, unless canceling a normal into an OD Special        |
+| 5   | Use armor-breaking move |                 Varies | Usually Level 1 Super will work.                  |
+
+
+Although Drive Impact is not a huge threat in neutral situations unless it scores a Punish Counter, it's far more dangerous when used near or in the corner, especially when the opponent is low on Drive Gauge or already in Burnout. 
+
+
+>[!hint] Remember, a player in Burnout no longer has access to their own DI, OD Moves, or parries, making it easier to make contact with your DI, especially when they're cornered.
+
+It’s too early to tell exactly how effective DI will be over the longrun against strong players, but it’s likely to be extremely effective against most players early on in the game’s life cycle.  Its relatively low cost of a single Drive Gauge stock puts it at the same meter cost as a Parry Drive Rush.  
+
+However, if your DI is countered with another DI, not only are you going to eat a big damage combo, you’ll also lose 2.5 bars, almost half of a fully stocked 6-bar Drive Gauge!
+
+This high-risk, high-reward mechanic adds another layer of depth to corner mindgames, as it becomes a game of “chicken” with the defender needing to simultaneously watch out for the DI, while trying to fight their way out of the corner.  
+
+Overzealous attackers may become predictable when going for the DI against a cornered opponent.  But even if your back is against the wall, with a sliver of Drive Gauge left, it’s still possible to counter a DI on reaction if you can maintain your cool.  
+
+---
+
+# The Drive System Part III - Drive Reversal & Drive Parry
+
+
+## Drive Reversal
+
+Drive reversal is similar to the reversal or Alpha counter in Street Fighter V or the Alpha series. It's executed by tapping forward and drive impact (HP and HK) when you're in block stun. This move cancels the block stun and performs a horizontal lunging attack. If the opponent is hit, they're pushed back, knocked down, and incur Grey Life damage. Grey Life damage recovers slowly after a few seconds, but if you get hit before the Grey Life recovers, the damage becomes permanent. The cost for drive reversal is two drive gauge stocks.
+
+Each character's drive reversal has different range, so you need to be aware of that. If you whiff, there's a chance it counts as a punish counter if you get hit. If the opponent blocks the drive reversal, you're only about -2 or -3 on block, meaning you're safe, but it's not your turn anymore.
+
+If the drive reversal is parried, the defender can punish with a full combo. The startup frames for drive reversal seem to be similar to drive impact, but it cannot be baited out and thrown like the reversal in Street Fighter V.
+
+## Drive Parry
+
+Drive parry is similar to the parry in Street Fighter III: Third Strike or Street Fighter V, executed by pressing MP and MK together. The same input as V skill in Street Fighter V. It costs half a bar to attempt the parry, but if the parry is successful, you get the half bar back. To parry, press the input right as the attacker's move is making contact.
+
+A successful parry absorbs the hit, and depending on the move, you may be able to counterattack. Unlike previous iterations, you can hold down the buttons to parry multiple hits. The parry window is six frames. If you get a perfect parry (when the move makes contact within the first two frames of the parry), the game slows down with a big animation effect and allows for a huge window of time to counterattack. However, with a regular parry, you don't get enough frame advantage for most moves to counterattack.
+
+In Third Strike, parry was a high reward mechanic, but in Street Fighter V and VI, regular parry is not high reward, while perfect parry is high reward but also high risk due to startup and recovery frames. Wake-up parry isn't as strong as it was in Third Strike. The parry has a two-frame startup, which means if a meaty attack connects on the first two frames of the parry, the parry loses.
+
+> Note: Need to clarify whether damage scaling starts at 50% for the entire combo after a perfect parry or if it decreases further with every hit.
+
+Perfect parries are challenging even for experienced players. Perfect parry doesn't seem to benefit from the input buffering system like other inputs, which means it has to hit within the two-frame window. If the attack makes contact on frames 1 or 2, the parry loses; on frames 3 and 4, you get a perfect parry; on frames 5 through 8, you get a regular parry and likely won't be able to counterattack. After frame 8, you're in recovery frames, and if the opponent hits you, they get a punish counter and damage bonus.
+
+Parries are effective in cross-up situations on wake-up since the parry will auto-correct. Note that you cannot parry when in burnout mode because you have no bar. If you parry a special move, you don't take any chip damage. Parrying a normal move doesn't decrease your drive gauge.
+
+---
+
+# The Drive System Part IV - Burnout Mode
+
+
+## What is Burnout Mode?
+
+Burnout is a weakened state that you enter if you run out of Drive Gauge. You start with six bars, and since so much of the game revolves around the use of Drive Gauge, both on offense and on defense, it's likely that over the course of several rounds, you will use up all of your Drive Gauge.
+
+### Entering Burnout Mode
+
+#### Running out of Drive Gauge
+
+You can run out of Drive Gauge either by spending it all and then needing to recharge, or by having your Drive Gauge depleted by blocking the opponent's attacks. 
+
+On offense, you can spend your Drive Gauge on various moves, such as Overdrive (OD) moves, which cost two bars, or Drive Rush cancels, which take three bars. 
+
+On defense, using Drive Reversal costs two bars, attempting a parry costs half a bar, and most importantly, blocking attacks causes your Drive Gauge to decrease.
+
+#### Offense and Defense usage of Drive Gauge
+
+Both on offense and defense, your Drive Gauge will automatically replenish itself over time, as long as you're not using it, blocking, or getting hit. 
+
+> [!tip]
+> Getting hit causes your Drive Gauge to stop replenishing, but you don’t lose any Drive Gauge when you get hit.
+
+### Effects of Burnout Mode
+
+#### Losing access to abilities requiring Drive Gauge
+
+When you're in Burnout, you lose access to all abilities that require Drive Gauge, such as Drive Impact, Drive Parry, Drive Reversal, Drive Rush, Parry Drive Rush, and your OD moves. This puts you at a significant disadvantage because you lose access to so many options.
+
+#### Getting dizzied by opponent's Drive Impact
+
+If the opponent makes contact with their Drive Impact while you're in Burnout, even if you're blocking, you get dizzied. This makes Drive Impact even more of a threat, especially if you're in Burnout late in the round.
+
+> [!tip] 
+> Remember that blocking a Drive Impact costs ½ a bar.  This means if you have less than ½ of a stock left, blocking a Drive Impact will cause a dizzy!  This means you’re in danger of being dizzied, *even if you’re not yet Burnt Out!*
+
+#### Extra block advantage for the opponent
+
+When you're in Burnout, the attacks that you block grant an extra four frames of block advantage for the attacker (***not for you***). 
+
+This means that moves that were minus (negative frame advantage) under non-Burnout circumstances now become plus (positive frame advantage), creating new block strings and frame traps that are only possible when the defender is in Burnout.
+
+### Managing Drive Gauge
+
+Burnout Mode forces you to manage your Drive Gauge as best you can and gives you an incentive to keep an eye on the opponent's Drive Gauge, as well as try to control theirs. 
+
+It encourages you to play smart with your Drive Gauge and not waste it unnecessarily, as running out of Drive Gauge will leave you in Burnout for quite some time.
+
+This adds a new layer of strategy not seen before in previous Street Fighter games because there can be situations where you are forced to choose whether it’s worth it to enter Burnout for the sake of a higher damage combo.
+
+> [!note] 
+> Generally in fighting games, the attacker landing successful hits is never penalized with a decrease in abilities, which makes Drive Gauge and Burnout quite a unique mechanic. 
+
+On defense, you might choose to use the last of your meter on a Drive Reversal in an attempt to fend off your opponent while cornered.  If it hits, they’ll be knocked down and pushed across the screen, potentially buying you the time and space needed to stop their momentum, take a breath, and regain control. 
+
+Of course, a savvy opponent knows this is one of your main options and will be on the lookout for you to use the last of your bar on a Drive Reversal, potentially baiting it out and punishing accordingly. 
+
+> [!tip]
+> It’s worth noting that even though your Overdrive Arts all cost different amounts of Drive Gauge (DI costs 1 bar, Drive Reversal costs 2 bars, Drive Rush Cancel costs 3 bars, etc.), you don’t need to have that amount of meter in order to do the move. 
+> 
+> You have access to all of your Overdrive Arts as long as you have even a sliver of Drive Gauge left.  There doesn’t seem to be any penalty for going into “Drive Gauge Debt”, as the Burnout recovery time will be the same no matter how you ended up there.
+> 
+> For example, on the surface it might seem like you can only do at most three OD Moves before you Burn Out (each OD Move costs two and you only have six total), but you can *“steal"* a fourth one in as long as you waited a brief moment for your bar to start recovering.  
+
+
+### Fighting While Burnt Out
+Whether you willingly (*or carelessly*) spent the last of your bar or had your Drive Gauge eaten up by blocking your opponent’s attacks, once you’re in Burnout, you must begin moving or attacking for the meter to start refilling.  
+
+> [!tip] 
+> Burnout lasts at most ***about 20 real-life seconds***, which can be an eternity!  
+
+#### Ways to speed up the Drive Gauge recovery time:
+- Blocking attacks increases your Drive Gauge in chunks. 
+- Making contact with your attacks, whether they hit or are blocked, also increases your Drive Gauge in chunks.
+- Getting dizzied by a Drive Impact will cause your Drive Gauge to immediately refill after the dizzy is over (***assuming you are still alive*** 🤣 )
+
+So whether you used the last of your meter on offense or defense, you are incentivized to go on the offensive in order to recover sooner.  
+
+If you have the opponent cornered, it might make sense to use up the remainder of your Drive Gauge in order to do extra damage.  
+
+Even though you'll be in Burnout, you’ll likely be able to continue the offensive pressure on their wakeup or reduce your risk by taking a step back and baiting the opponent to overextend and punishing accordingly.  
+
+Because you have them cornered, you have the entire screen to work with and can safely apply pressure while inching backwards.  
+
+### Avoiding Burnout
+Though sometimes you’ll be in situations that force you into Burnout, there are usually ways to avoid it such as:
+
+1. Using Drive Reversal *before* you have less than 2 bars left. 
+2. Foregoing extra damage in a combo by not spending 2 bars on an OD Move. 
+3. Using Drive Rush Cancel sparingly because 3 bars is pretty steep. 
+4. Using your Super Meter instead of an OD Move to finish a combo. 
+5. Countering their Burnout-inducing Drive Rush with your own Drive Rush. 
+
+In the heat of battle, these may be easier said than done, but with practice and awareness, you’ll gradually be able to reduce amount of time you’re in Burnout.
+
+---
+
+# Gameflow
+
+
+
+---
+
+# Inside The Mind of the Opponent
+
+
+
+
+---
+
+# Effective Training in Street Fighter 6
+
+
+# Effective Training in Street Fighter 6
+
+Training effectively in Street Fighter 6 is not that much different from training in any other aspect of life. It comes down to having a plan, working at it consistently, playing matches, getting feedback on your game, reviewing your matches, working on the problems in your game, and repeating the process.
+
+## Setting Goals
+
+When it comes to having a plan, first, you need to have a goal. Your goal can be as big or as little as you want. The most important aspects of setting your goals are that they are measurable, actionable, and have a timeline. It doesn't matter whether your goal is to win Evo, be the best with your character, make it up to silver rank online, or simply beat a friend or family member you're tired of losing to in person. What matters is that you set goals that you can measure objectively to know whether or not you've achieved them.
+
+### Ineffective Goal Example
+
+An ineffective goal is, *"I want to get good at Street Fighter 6."* This goal is not specific enough. If you just want to be a little bit better and learn a new combo with your character, congratulations, you're "good" now.
+
+### Effective Goal Example
+
+To make the goal measurable, you can look at your current win rate over a period of time and record that, then try to improve. If your last 20 matches show a 25% win rate, set a goal like, *"I'm going to increase my win rate from 25% to 30%."* This way, you can check back in another 20 games to see if you've reached your goal.
+
+It's also important to set a timeline for this goal, as it will create urgency. You may not have just one goal; perhaps you set several goals. 
+
+Some goals can be related to outcome, such as improving your win rate, while others might be related to committing to the process of improving, like spending five minutes a day in training mode working on your execution four days a week.
+
+### A Different Method for Setting Goals: The MTO Technique
+
+Sometimes setting goals can be difficult, particularly when they are binary and don't account for different levels of achievement. It can be tough to deal with not reaching your goals and convincing yourself that these goals are possible if you haven't already achieved a certain level. One technique to address this issue is the MTO technique, developed by Raymond Aaron. With this technique, you break your goals down into three levels:
+
+1.  **Minimum**: The level you're confident you can achieve.
+2.  **Target**: The level you think you could probably achieve.
+3.  **Outrageous**: The level that you don't currently think is even possible.
+
+This approach sets you up in such a way that it's almost a sure thing that you can hit the minimum, but you still have a higher level that is above where you're at, and it positions a super high level as both within and outside the realm of possibility.
+
+In the early days of Street Fighter IV, I used this method. I wrote it down on physical paper and looked at it all the time. Although I didn't hit all the goals, I did achieve a lot more than I thought was possible and reached the outrageous level in a couple of them.
+
+## Defeating Your Arch-Rival
+So now that we have our goals positioned, what do we do to start working towards them?
+
+Continuing with our goal of defeating our arch-rival, Johnny Donuts, in a first-to-five in the next six months, how are we going to do this?
+
+Oftentimes, the reason why we're losing to our arch-rivals typically comes down to a handful of key factors.
+
+### Subpar execution.
+You can't hit the right combos when it counts because either you choke under pressure, or you haven't built the muscle memory to do the combo, even in training mode, or maybe you're not doing the most amount of damage in different opportunities.
+
+### Character unfamiliarity.
+Maybe Johnny Donuts plays a character that you hate, or you think is cheap, or you're unfamiliar with. They must be playing a character that we are unfamiliar with or they play a character archetype that you find annoying, or they're playing a character that you consider overpowered or a bad matchup for your character.
+
+### Predictability.
+
+Another reason why your arch-rival is difficult to beat is because they always seem to know what you're going to do before you do.
+
+### Execution
+
+This one is the most straightforward because, aside from the hardware configuration of your setup, your execution is the only other component of your game that you are in full control of. It doesn't matter what character you're playing, what you think the tier list is, or even what character your arch-rival happens to play. Your execution is 100% your responsibility and in your control fully at all times.
+
+Therefore, because it's completely your control, it is also your responsibility to make sure that your execution is up to snuff. That you're able to do the moves and combos that you want to be doing in the heat of battle every single time.
+
+So how do you get it to the level where you can hit your moves and combos in real matches every time? 
+
+Well, it starts in training mode. Personally, I strive to be able to hit my combos 10 times in a row on both sides and I will practice them until I can do that.
+
+The next step would be setting the dummy in Training Mode to the CPU at a low level, so that they're moving and trying to attack you, but not going too hard, and then being able to hit that combo against the moving dummy.
+
+### Maximizing Damage
+Once you've improved your execution, the next level is maximizing the damage that you can inflict with every opportunity. Newer players, even if they can do basic combos with their character, might not be doing the most amount of damage that they can get from any given situation with their character, usually due to a lack of game knowledge or character knowledge.
+
+Make sure you're at least getting in the ballpark of the maximum amount of damage that your character can do in any given situation. Learn combos for situations with no meter, one or two meters of drive gauge, and different levels of super.
+
+### Understanding Your Arch-Rival's Character
+
+Once you've improved your execution and overall damage output per situation, the next step is to work on your knowledge of Johnny Donuts' character. You don't have to be an expert, but you do need to be competent. Spend time learning their character, even if you don't like their playstyle.
+
+### Analyzing Replays
+
+Analyzing replays is a critical part of improving your gameplay. It allows you to review and identify your own mistakes and patterns, as well as observe your arch-rival's tendencies. By understanding where you went wrong and what your opponent is doing, you can make adjustments and improve your chances of winning in future matches.
+
+Here are some steps to analyze your replays effectively:
+
+```ad-tip
+title: 
+```
+```ad-tip
+Before your replay starts, pause the game and turn on Input Display and Frame Advantage so you can see both players' inputs and how the frame advantage of each move in real-time. 
+```
+
+1.  **Watch the replays from a neutral perspective:** Try to detach yourself emotionally from the match and view it as if you were watching two other players. This will help you be more objective in your analysis.
+    
+2.  **Identify patterns and habits:** Pay attention to both your own habits and your opponent's. Are you always doing the same move after a specific situation? Does your opponent have a predictable playstyle or particular moves they favor? Make a note of these patterns so you can exploit them or break your own habits.
+    
+3.  **Take note of successful and unsuccessful decisions:** Keep track of the decisions you made during the match that led to success or failure. Were there times when you made a good read or correctly punished your opponent? What about instances where you made a poor decision that cost you the round? By identifying these moments, you can learn from your mistakes and reinforce good habits.
+    
+4.  **Look for opportunities you may have missed:** Sometimes, in the heat of a match, you may overlook certain opportunities to deal more damage or gain an advantage. Reviewing the replays can help you spot these missed chances, and you can practice capitalizing on them in future games.
+    
+5.  **Compare your gameplay to high-level players:** If possible, watch replays of top players who use your character or face your arch-rival's character. Observe their decision-making, combos, and strategies, and see if you can implement any of their techniques into your own gameplay.
+    
+6.  **Create a plan of action:** Based on your analysis, develop a plan for improving your gameplay. This may include practicing specific combos or setups, breaking bad habits, or focusing on specific matchup knowledge. Set concrete goals to work on before your next match against Johnny Donuts.
+    
+
+By consistently analyzing your replays and making necessary adjustments, you'll be better prepared to face your arch-rival and eventually defeat them in a first-to-five match. Remember, improvement is a gradual process, so stay patient and persistent in your efforts.
+
+#### Applying the MTO Technique
+
+Let's apply this method to the goal of beating your arch-rival in Street Fighter 6:
+
+-   **Minimum**: I will beat Johnny Donuts one game by the end of the year.
+-   **Target**: I will beat Johnny Donuts in a first-to-five set by the end of the year.
+-   **Outrageous**: I will beat Johnny Donuts in a first-to-five set by September 30th.
+
+The minimum goal is achievable and realistic, given six months of training. The target goal is more challenging but still within the realm of possibility. The outrageous level is supposed to be the most challenging and may seem impossible, but that's okay because you still have the minimum and target levels that your mind believes are possible.
+
+By setting goals in this way, you give yourself a range of possibilities and levels to work towards, making it more likely that you'll find motivation and success in your training.
+
+As you achieve your goals, you will gain confidence and momentum to set new goals and consistently reach higher and higher levels of performance. 
+
+## Frame Data
+- Full Meter’s Character Punisher 
+- Full Meter’s Move Punisher 
+
+## Watching Replays
+
+
+## Execution
+
+
+
+---
+
+# Glossary and Abbreviations
+
+
+## Glossary and Abbreviations
+
+Here's a list of terms and abbreviations we have discussed so far, as well as some additional terms that may be relevant:
+
+### Abbreviations
+
+-   CA: Critical Art
+-   DI: Drive Impact
+-   DR: Drive Reversal
+-   DP: Drive Parry
+-   BO: Burnout
+
+### Glossary
+
+-   **Critical Art**: A powerful, cinematic special move that requires a full EX Gauge to perform.
+-   **Drive Gauge**: A three-section meter that builds up during combat, used for various mechanics such as Drive Impact, Drive Reversal, and Drive Parry.
+-   **Drive Impact**: A unique move for each character, performed by pressing Heavy Punch + Heavy Kick simultaneously, that uses one section of the Drive Gauge.
+-   **Drive Reversal**: A defensive move performed during block stun that interrupts the opponent's offense and inflicts Grey Life damage. This move consumes two sections of the Drive Gauge.
+-   **Drive Parry**: A mechanic that allows players to parry incoming attacks, costing half a bar of Drive Gauge, but refunding it if the parry is successful.
+-   **Burnout**: A mode characters enter when their Drive Gauge is empty, limiting their ability to use moves that require Drive Gauge.
+-   **Chip Damage**: Damage taken when blocking special moves and Critical Arts. Parrying these moves will prevent chip damage.
+-   **Grey Life**: Recoverable health that characters temporarily lose when taking chip damage or being hit by a Drive Reversal. It recovers slowly over time if the character avoids taking further damage.
+-   **Startup Frames**: The number of frames it takes for a move to become active after the input is executed.
+-   **Recovery Frames**: The number of frames it takes for a character to return to a neutral state after executing a move.
+-   **Frame Advantage**: The difference in recovery time between the attacker and defender after an attack is blocked or hits, measured in frames.
+-   **Punish**: A move that can be used to take advantage of an opponent's unsafe attack, typically during its recovery frames.
+-   **Focus Attack (Street Fighter 4)**: A move that allows characters to absorb a single hit while charging a powerful, unblockable attack. This mechanic shares some similarities with Drive Impact in Street Fighter 6, as both moves are unique to each character and have offensive and defensive applications.
+-   **V-Reversal (Street Fighter 5)**: A defensive move performed during block stun that uses one section of the V-Gauge to interrupt the opponent's offense. This mechanic is similar to Drive Reversal in Street Fighter 6, as both moves are used to interrupt an opponent's offense and inflict some form of damage (Grey Life in SF6).
+-   **Alpha Counters (Street Fighter Alpha series)**: Defensive moves performed during block stun that use a portion of the Super Meter to counterattack the opponent. These moves are also similar to Drive Reversal in Street Fighter 6, with both mechanics serving as a defensive option to interrupt an opponent's offense during block stun.

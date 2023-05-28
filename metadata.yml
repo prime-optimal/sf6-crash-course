@@ -1,14 +1,45 @@
 ---
-title: My book title
-author: Daniel Herzog
-rights: MIT License
+title: "SF6 Essentials: Ryu"
+author: gootecks
 lang: en-US
-tags: [pandoc, book, my-book, etc]
+tags: [street-fighter-6, gaming, fighting-games]
 abstract: |
-  Your summary.
+  Everything you need to know about Ryu in Street Fighter 6.
 mainfont: DejaVu Sans
 
 # Filter preferences:
 # - pandoc-crossref
 linkReferences: true
+copyright:
+  owner: gootecks
+  year: 2023
+subtitle: "This is the path of my destiny"
+publisher: Cross Counter TV, LLC
+
+# Whether or not to enable PlantUML. You must install PlantUML, and the
+# "plantuml" command must be in your path, if you enable this feature.
+#
+# Default, if not specified: false
+use_plantuml: true
+
+# Whether PDF generation uses Weasy Print (true) or LaTeX (false). Defaults to
+# false (LaTeX).
+use_weasyprint: true
+
+# Set to the language in which the book is written. This is especially
+# useful when generating PDF with weasyprint, because it affects how
+# hyphenation is handled. (When using weasyprint, automatic hyphenation is
+# supported for any language that Pyphen supports.)
+
+# Multiple authors are permitted.
+author:
+- gootecks
+
+# See https://wiki.mobileread.com/wiki/Genre
+genre: reference, 
+
+# Set this option if you need to change the paper size. Default is "letter".
+# "A4" is also valid.
+
+#papersize: letter
 ---

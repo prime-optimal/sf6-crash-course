@@ -1,0 +1,691 @@
+= Street Fighter 6 Crash Course
+:created: 2023-05-26 01:38 PM
+:doctype: book
+:updated: 2023-05-27 12:26 AM
+:imagesdir: images
+
+== Everything You Need to Know to Start Winning
+
+=== by gootecks
+
+= Welcome!
+
+Thanks for taking the time to check out this preview.
+
+The full version is available on Amazon at: https://geni.us/sf6-crash-course
+
+If anything is unclear or needs correcting, hit me up on Twitter (https://twitter.com/gootecks[@gootecks]) or send me an email: gootecks@crosscounter.tv.
+
+'''
+
+= Drive Gauge at a Glance
+
+== What is it?
+
+Drive Gauge is a renewable resource that can be used offensively and defensively.  Both players start every round fully stocked with 6 bars, regardless of how much Drive Gauge they ended the previous round with.
+
+== Why is it important?
+
+* You use Drive Gauge for offensive and defensive techniques.
+* Without it, you are extremely limited in offensive options and extremely vulnerable when on defense.
+* It doesn't carry over to the next round, therefore there's no point in saving it/dying with it.
+* If you run out of Drive Gauge, you enter Burnout mode and can be dizzied.
+
+== How does it fit in with the big picture?
+
+* In SFV, your EX moves and your Critical Art came used the same bar, meaning you would sometimes have to choose between being able to use your EX and doing a CA.  Now, they are separate.
+* Since it refills each round, you don't need to worry about conserving it for the next round.
+* It can be used to extend combos ([[Drive Rush]]) put them in okizeme situations (Drive Rush), or as a counter ([[Drive Counter]])
+* You lose Drive Gauge when you block, which penalizes overly defensive strategies.
+
+== What are some ways to use it
+
+* OD (or EX) moves cost 2 bars
+* Drive Rush costs 3 bars.
+* Parry Drive Rush costs 1 bar.
+* Drive Reversal costs 2 bars.
+* Drive Impact costs 1 bar.
+* Parry attempts cost 0.5 bar
+
+== How does it work?
+
+. You start each round with a full Drive Gauge (6 bars)
+. OD Special Moves do more damage and have different properties such as knockdown, juggle state, wall bounce, etc.
+. Combos can be extended with Drive Rush and Parry Drive Rush.
+. Offensive pressure can be initiated by canceling a Normal into Drive Rush or through Parry Drive Rush.
+
+____
+[!danger] If you run out of Drive Gauge, you enter [[Burnout Mode]]
+____
+
+. Drive Impact is similar to SF4's Focus Attack, except it has two hits of armor.
+. Drive Counter is similar to an Alpha Counter or V-Reversal, allowing the defender to push the attacker off.
+. Each bar takes about five seconds to regenerate after it's used.  Blocking will stop the bar from regenerating, whereas walking forward will begin regenerating your bar.
+
+'''
+
+= The Drive System Part I - Drive Rush & Parry Drive Rush
+
+== Drive System Overview
+
+The drive system is one of the biggest changes in Street Fighter 6 compared to Street Fighter 5. The drive system allows for all kinds of defensive and offensive options, and it's arguably the most important resource system.
+
+It's represented by the Drive Gauge, which you can see underneath the life bar. Both players start each round with a full Drive Gauge.
+
+== Impact on Gameplay Dynamics
+
+Because you start each round with a full drive gauge, all the different options the Drive Gauge gives you access to are available immediately at the beginning of each round.
+
+This changes the dynamic of the opening round compared to previous Street Fighter games.
+
+In Street Fighter IV, V, and III: Third Strike, you start with zero resources and build them up as the round progresses.
+
+For example, in Street Fighter 4 and Street Fighter V, special moves can be upgraded to EX special moves by spending one of your four available EX stocks.  EX special moves typically have special properties.
+
+Ryu's EX Fireball, for instance, hits twice instead of once and knocks down.  His EX Donkey Kick gains the wall bounce property, which means you can juggle afterwards with a DP or other special move.
+
+Other moves like Ryu and Ken's EX DPs, gain invincibility, extra damage, and additional hits.
+
+But at the beginning of the round, none of this is available, which means that your offensive options are limited during the early part of the first round.
+
+== OD Moves
+
+In Street Fighter 6, EX moves have been replaced by OD Moves, which work similarly, except they cost two stocks of Drive Gauge instead of one stock of EX.
+
+Instead of each one using ¼ of your bar, they now cost ⅓.  To compensate, you start each round with all six stocks.
+
+In Street Fighter V, your EX stocks carry over from round to round, but in Street Fighter 6, they reset each round.
+
+In Street Fighter V, your V-Gauge would reset every round, incentivizing you to use your V-Trigger, V-Reversal, or V-Dash since it's going to reset at the end of the round anyway.
+
+____
+[!note]
+The last Street Fighter game that started you off with all your offensive resources was the Alpha series, and the Marvel vs. Capcom series also starts you with one super meter.
+
+If you played any of those games, that should give you a better idea of how starting with resources affects the beginning of each round.
+____
+
+== Encouraging Faster Openings
+
+In Street Fighter 6, not only are you incentivized to use your drive gauge every round, but you also have the option to use any drive gauge options from the very beginning of the round.
+
+This encourages a faster opening of each round because, in addition to the OD Moves that are immediately accessible, there are also Drive Rush Cancels and Drive Rush Parry. We'll get into those next.
+
+== Drive Rush Cancels
+
+=== Understanding Drive Rush
+
+Drive Rush is performed by inputting a dash during a normal that is special cancelable.
+
+It costs three Drive Gauge stocks, which means you can only do a maximum of two before you run out of meter.
+
+Drive Rush allows you to cancel a normal into a dash, which carries you forward quite a long way and adds a significant amount of On Hit frames.
+
+In addition to the first Normal that you Drive Rush, the second Normal you connect with gains an additional +4 of hitstun on hit and on block.
+
+=== A Basic Example with Ryu
+
+____
+[!caution]
+cr. MK xx Drive Rush, st. MP, B+HP xx HK Donkey Kick (*2179 dmg*)
+____
+
+Ryu can Drive Rush Cancel his cr. MK (or any other normal that's cancelable).
+
+image::2023-04-08-05-28-21@2x-1.png[]
+
+If the cr. MK hits, he is +11.  If it's blocked, he is +4.
+
+Without canceling into Drive Rush, cr. MK is only +1 on hit. So by canceling into drive rush, you get an extra 10 frames of advantage.
+
+Since he's now +11 after the drive rush cancel, it opens up new combo opportunities that wouldn't be possible otherwise, such as linking into st. HP, which has a 10-frame startup.
+
+Because cr. MK is normally only +1 on hit, you wouldn't be able to link into st. HP without Drive Rush.
+
+But with Drive Rush, this new link is possible and pretty easy to do.
+
+So then what happens after this st. HP hits?
+
+==== Without Drive Rush
+
+Off of a normal st. HP (without the preceding Drive Rush), you aren't able to link into another normal because it's only +3 on hit.
+
+image::2023-04-08-05-29-44@2x.png[Source: fullmeter.com]
+
+Since Ryu doesn't have any attacks with a 3F startup, your only option would be to cancel the st. HP into any of his special moves, such as his fireball, DP, or Donkey Kick, which would be the end of the combo.
+
+==== After Drive Rush
+
+In this example, the Hit Advantage of the original cr. MK increases after the Drive Rush Cancel (going from +1 to +11)
+
+After the cr. MK drive rush cancel, st. HP goes from being +3 on hit to being +7 on hit after the Drive Rush.
+
+image::2023-04-08-05-29-44@2x.png[Source: fullmeter.com]
+
+This is because the frame advantage increase from the Drive Rush Cancel applies to the first and second hit of the combo.
+
+____
+[!caution]
+The `dr-oH >` and `dr-oB >` columns of the frame data on fullmeter.com are always +4 of their `oH` and `oB` counterparts.
+____
+
+This four-frame increase from +3 to +7 On Hit allows you to link into another normal with a startup of seven frames or less.
+
+____
+[!tip]
+Ryu only has one grounded 7F normal: his B+HP, which does 800 damage, forces a stand on hit, and is cancelable into a special move or any of his supers.
+____
+
+image::2023-04-08-05-33-07@2x.png[Source: fullmeter.com]
+The B+HP can be canceled into HK Donkey Kick, resulting in total damage of 2179 and significant corner push.  However, that would likely be the end of the momentum, as the opponent would be pretty far away.
+
+image::2023-04-08-08-41-52.png[Source: fullmeter.com]
+
+____
+[!tip]
+Alternatively, you could substitute the HK Donkey Kick for HP DP, which would increase the damage by 51 points to 2230.
+____
+
+Without doing the Drive Rush Cancel, you would be limited to `cr. MK xx MK Donkey Kick`, which only does 1380 damage, by comparison.
+
+However, through the use of Drive Rush Cancel at the cost of three Drive Gauge stocks, you increase the damage from 1380 to 2179 in this basic example.
+
+This is a 58% increase in damage at the cost of half of your Drive Gauge!
+
+____
+[!tip]
+When considering whether it's worth it to spend the bar, don't just consider the damage and percentage increase.
+
+Remember to also consider the positioning, the life bars, and both player's Drive Gauges.
+____
+
+==== Is it worth it?
+
+A 58% increase in damage certainly seems like a big increase.  But is it worth the bar?
+
+That depends on the situation, as there could be times where you can end the round through spending the remainder of your bar.
+
+This example just illustrates the combo extension possibilities that are afforded from landing one cr. MK.
+
+There are many other situations where it might not be worth it to spend half your Drive Gauge because an OD Special Move might be a better choice.
+
+==== OD Donkey Kick Alternative
+
+Consider this combo that also starts with cr. MK:
+
+____
+[!tip]
+cr. MK xx OD Donkey Kick (_wall bounce_), B+HK xx MP DP (*2140 dmg*)
+____
+
+By spending two Drive Gauge stocks on OD Donkey Kick, you deal 2140 instead of 2179 damage, a decrease of 39 points or about 1% less.
+
+You also can continue the offensive pressure because the MP DP doesn't push the opponent as far away as the HK Donkey Kick does.
+
+So although you do 1% less damage with the OD Donkey Kick, you are spending 33% less of your Drive Gauge because it only costs you two bars instead of three.
+
+____
+[!caution]
+The OD Donkey Kick example only works if you're far enough away from the corner that the B+HK will connect.  If you're too close to the corner, they'll fly over your head.
+____
+
+== Parry Drive Rush
+
+Parry Drive Rush is another offensive tool that's part of every character's Drive System repertoire.
+
+It's similar to Drive Rush Cancel in the sense that it can be used to initiate offense as well as extending combos.
+
+You perform the Parry Drive Rush by inputting a dash while holding down the parry (MP+MK).
+
+This is definitely the mechanic that I found most confusing.
+
+Admittedly, it's probably also the one that I know the least about. But I'm going to do my best.
+
+=== Why Parry Drive Rush is confusing
+
+Part of the reason why I think this particular mechanic is confusing is because of its name and also its input.
+
+As we'll cover later in more detail, the Drive Parry is a defensive mechanic that's similar to the parry in Street Fighter III Third Strike as well as the parry mechanic that some characters like Ryu and M. Bison have in Street Fighter V.
+
+But that's where the similarities end, because the Parry Drive Rush, to my knowledge, can't be used defensively, at least not in the way that you would expect.
+
+You might think that because the input is done starting with the parry, you can parry an attack and then Parry Drive Rush into a counter-attack.
+
+Unfortunately, it just doesn't work that way because when you do a regular Drive Parry, you don't get anywhere near the number of frames required for the Parry Drive Rush to connect.
+
+It might be possible after a Perfect Parry, but at this point, it also doesn't even seem necessary because you have so much time when you hit a perfect parry that you wouldn't need to Parry Drive Rush.
+
+The other reason why it's confusing is the input.
+
+Because of the name and the input, you think that it is somehow connected to the regular Drive Parry, but it's not.
+
+=== Using Parry Drive Rush as a combo extender
+
+Let's take a closer look at how it can be used as a combo extender.
+
+First, we're going to examine the input. In order to Parry Drive Rush, you have to hold parry (meaning holding MP and MK together), and during the parry animation, which you can hold for an extended period of time, if you input the dash (meaning if you tap forward twice), then you get the Parry Drive Rush, which looks quite similar, if not exactly the same, as the Drive Rush Cancel.
+
+But it's not the same as the Drive Rush Cancel because instead of canceling a normal into the Drive Rush, which results in a dash, in this case, you're canceling the parry animation instead.
+
+So that means it can be executed in the middle of a combo as a means to extend the combo with a juggle.
+
+==== Ryu Parry Drive Rush Combo Extension #1
+
+For example, if Ryu has "Denjin Mode" activated by pressing `D, D+P`, the palm gets a juggle potential boost. If you hit them with the palm while they're in the air, they'll stay in the air longer if you have Denjin Mode activated.
+
+The extra time they spend in the air gives you enough time to Parry Drive Rush, which moves you forward and then allows you to juggle with st. HP or cr. HP, which you can then cancel into a special, such as HK Donkey Kick, or canceling into his Level 3 Super.
+
+Here's the example:
+
+After activating Denjin Mode with `D,D+Punch`, follow these steps to perform the combo:
+
+. Land a cr. MK to start your combo. It's a solid low attack that can catch your opponent off-guard.
+. Cancel the cr. MK into the Overdrive (OD) Donkey Kick by performing a QCF+KK. The OD version of Donkey Kick has a wall bounce property.
+. After the wall bounce, your opponent will be in a juggle state. Perform the Palm (QCB+P) to juggle as they bounce off the wall.  Because Denjin is active, the Palm will keep your opponent airborne for a bit longer.
+. Hold Parry (MP+MK), then dash (F, F) and release Parry to do the Parry Drive Rush.
+. As your opponent is falling to the ground and the Parry Drive Rush carries you forward, press st. HP and cancel into HK Donkey Kick.
+
+In summary, the combo sequence is:
+
+____
+[!example] Activate Denjin > Crouching Medium Kick > OD Donkey Kick > Wall Bounce > Palm > Parry Drive Rush > Standing Heavy Punch > HK Donkey Kick
+____
+
+This deals _2,705 damage_ at the cost of three of your Drive Gauge bars: _two for the OD Donkey Kick_ and _one for the Parry Drive Rush_.
+
+What makes Parry Drive Rush so interesting is its low cost compared to Drive Rush Cancel.
+
+Drive Rush Cancel costs three bars or half of your Drive Gauge, whereas Parry Drive Rush only costs one bar or one-sixth of your Drive Gauge.
+
+So it costs 1/3 as much as Drive Rush Cancel does.
+
+This means that if you have the opportunity to extend a combo with it, it's almost always going to be worth it to spend one bar to do so.
+
+The only time it might not be worth it is if you only had one bar left, which means you would enter Burnout and no longer have access to your Drive options.
+
+Other than that, it's almost always worth it to extend the combo given the opportunity.
+
+==== Parry Drive Rush and Its Connection to Street Fighter IV
+
+As a side note, Street Fighter IV players might find the Parry Drive Rush to be somewhat reminiscent of Focus Attack Dash Cancel (FADC) in Street Fighter IV.
+
+You could use the FADC to cancel special moves into a dash and extend the combo, and it was done with the same input - holding MP and MK together and then tapping forward twice.
+
+In Street Fighter IV, MP and MK were the commands for Focus Attack. Other than that, the input and its usage are pretty similar.
+
+In Street Fighter IV, you could cancel a special move with FADC at the cost of two bars.
+
+Ryu could perform a `MP DP → FADC Ultra`, which would allow him to cancel the DP into a dash and then juggle with the Ultra.
+
+Street Fighter IV players will also remember that you could absorb a hit while charging the Focus Attack and then cancel the Focus Attack into a dash. And this tactic didn't cost any meter at all.
+
+This leads us to another way that you can use Parry Drive Rush, which is to initiate offense.
+
+=== The "`After Drive Rush`" Columns
+
+To better understand how Parry Drive Rush works, we need to look at the "after Drive Rush on hit" and "after Drive Rush on block" columns.
+
+image::2023-04-08-08-32-42@2x.png[Source: fullmeter.com]
+
+It wasn't until I had the frame data in front of me, thanks to fullmeter.com, that I was able to understand this mechanic.
+
+When you parry Drive Rush and then press a button, the "after Drive Rush on hit" and "after Drive Rush on block" columns come into play.
+
+When you start offense this way, the frame advantage is the same as it is on the second hit after a Drive Rush Cancel.
+
+Recall that in the earlier Drive Rush Cancel example, we started with `cr. MK xx Drive Rush Cancel, st. HP`.
+
+image::2023-04-08-08-41-52.png[Source: fullmeter.com]
+
+The cr. MK is +11 off of a Drive Rush Cancel that hits, and the second move, st. HP, is +7 after Drive Rush on hit.
+
+If you perform a Parry Drive Rush followed by a st. HP and it hits, you'll be +7. If it's blocked, you'll be -3.
+
+This is because the `after Drive Rush on hit` and `after Drive Rush on block` columns are always +4 more than the regular on-hit and on-block columns.
+
+____
+[Shout outs to Juicebox Abel for pointing that out, as I haven't seen anybody else make that observation.]
+____
+
+=== Initiating Offense with Parry Drive Rush
+
+In addition to extending combos by performing a Parry Drive Rush in the middle of a combo, the other way to use it is by initiating offense with it.
+
+The best example to illustrate why this is useful is with Ryu's Parry Drive Rush Overhead.
+
+First let's take a closer look at the frame data of the Overhead by itself, without the Parry Drive Rush.
+
+image::2023-04-08-09-24-27-1.png[Source: fullmeter.com]
+
+. F+MP is the input.
+. Ryu's Overhead has a 20-frame `Startup` and, even though it only does 600 damage, it has to be blocked high.
+. `On Block`, it's -3, which basically makes it unpunishable.
+. `On Hit`, it's +2.
+
+Being -3 On Block makes it essentially unpunishable because there are no three-frame normals or specials.  The fastest normals are four frames in SF6.
+
+Additionally, there are no invincible reversals that come out in less than five frames. So, -3 in this case means it's safe, but if they block it, it's the end of your turn.
+
+image::2023-04-08-09-31-17.png[Source: fullmeter.com]
+
+When using Parry Drive Rush into Overhead, the overhead leaves you +6 on hit and +1 on block.
+
+Being +6 on hit is good enough to combo into a st. MP, which has a 6-frame startup, or a cr. MP, which also has a 6-frame startup.
+
+Let's go with cr. MP for now, which does 700 damage instead of the 600 damage from st. MP.
+
+With this example, you could perform a Parry Drive Rush Overhead and, if it connects, link into a cr. MP, cancel into a medium Donkey Kick, and then cancel that into Ryu's Level 3 Super, the Shin Shoryuken.
+
+This would deal 4580 damage, which is an absurd amount of damage to get off an overhead with Ryu.
+
+____
+[!note]
+In previous iterations of Street Fighter, such as 3rd Strike, Street Fighter IV, and Street Fighter V, it wasn't possible to get major damage off of an overhead with Ryu.
+
+Typically, only a handful of characters like Dudley in 3rd Strike and Street Fighter IV, and maybe Urien in Street Fighter V, can convert an overhead into highly damaging supers.
+____
+
+With Parry Drive Rush, even Guile becomes an offensive threat because his overhead gets enough frame advantage after Parry Drive Rush to link into his Standing MP, B+HP Target Combo, leading to big damage in the corner.
+
+There might be more ways to use Parry Drive Rush, but those are the two main ways that I'm aware of.
+
+And because it only costs one bar and you start with six, that means you could theoretically attempt six Parry Drive Rushes to try to get your offense going from the start of the round.
+
+It's probably not the best idea, as strong players won't let you get away with that. But it's likely the best deal, so to speak, in Street Fighter 6 because it only costs one bar and doesn't require connecting with a normal like Drive Rush Cancel.
+
+Drive Rush Cancel seems expensive by comparison and more limited because you have to make contact with the opponent in order for it to come out.  If they block, you may have just wasted half your Drive Gauge!
+
+Whereas with Parry Drive Rush, you can throw it out in the neutral game without needing to make contact, and it only costs one bar instead of three.  If they block, you're only out one-sixth of your bar, instead of half.
+
+It also allows for new combo possibilities that didn't exist before, such as being able to connect your Level 3 Super from an Overhead in the corner.
+
+Parry Drive Rush is not only cost-effective at just one bar, but it also opens up the potential for creative offensive strategies and gameplay for players to explore.
+
+'''
+
+= The Drive System Part II - Drive Impact
+
+== Drive Impact: The Defensive Offense Tool or The Offensive Defense Tool
+
+We talked about how Drive Rush Cancel and Parry Drive Rush are two of the three offensive systems of the Drive System as a whole. Now, let's discuss Drive Impact, which can be used offensively and defensively.
+
+Imagine the Drive System as a pentagon with offensive options on the left and defensive options on the right. Square in the middle is the Drive Impact, because it can be used both offensively and defensively.
+
+To perform Drive Impact, press Heavy Punch (HP) and Heavy Kick (HK) together, and your character will lunge forward with a mid-range, mid-level attack that also comes with *_two hits of armor_*!
+
+Each character's Drive Impact has a startup of 26 frames with 2 active frames, which might seem long, but is just under half a second.  The total frames of each character's DI is 62 frames, so it's 35 frames of recovery makes it a high-risk, high-reward momentum shifter.
+
+____
+[!note]
+If you've played Street Fighter 4, you might notice similarities between Drive Impact and Focus Attack, particularly the armor and the crumple state you get from hitting Level 2 or Level 3 Focus Attack.
+____
+
+However, in Street Fighter 6, there's only one level of Drive Impact, and you can't hold it to delay when it comes out.
+
+Inputting the Drive Impact costs one of your Drive Gauge stocks, so you can't throw it out recklessly and have to be aware of your screen position and meter.
+
+However, since you can absorb two hits due to its armor, you can DI pre-emptively against projectiles and other incoming mid-range moves.
+
+If you score a clean hit, the opponent is knocked back in an airborne state and gets pushed about half-screen towards the corner.  They also lose one of their Drive Gauge stocks.  It seems like the average DI does 800 damage, though Jamie and Kimberly only do 720.
+
+If you absorb a hit and score a Counterhit, you get a 20% damage boost, so a standard 800 damage DI gets bumped up to 960 damage and still scores a knockdown.  The opponent loses 1.25 Drive Gauge stocks.
+
+If you score a Punish Counter, you get a big crumple that gives you plenty of time to land a high-damage combo, in addition to the 20% damage bonus from the DI itself.  The opponent loses 1.5 Drive Gauge stocks in this instance.
+
+If it's blocked, the opponent is pushed back towards the corner in a blowback/stagger state, leaving you at -3F, which isn't punishable, but does reset the situation.  The opponent only loses 1/2 of a Drive Gauge stock if your DI is blocked.
+
+However, if Drive Impact connects while the opponent is near the corner, the pushback causes the opponent to hit the wall which triggers a Wall Splat state and you have an opportunity to convert into a combo.  The opponent still only loses 1/2 of a Drive Gauge stock, but the extra damage opportunity makes up for it.
+
+____
+[!tip] Even if they barely touch the wall, you'll still get the Wall Splat, so be on the lookout for DI opportunities when the opponent is about 1/4 of the screen from the corner.
+____
+
+|===
+| Situation | Damage | Opp. Drive Gauge Loss | Additional Effects
+
+| Hit
+| 800 (720 for Jamie and Kimberly)
+| 1 stock
+| Opponent knocked back and airborne, pushed half-screen towards corner
+
+| Counterhit
+| 960
+| 1.25 stocks
+| 20% damage boost, scores knockdown
+
+| Punish Counter
+| 960
+| 1.5 stocks
+| 20% damage boost, crumple, combo opportunity
+
+| Blocked
+| N/A
+| 0.5 stock
+| Corner push, -3F but still safe, resets situation
+
+| Blocked (Corner)
+| Varies based on follow-up
+| 0.5 stock
+| Wall Splat state, combo opportunity
+
+| Blocked (Burnout)
+| 200
+| Recovers 6 stocks
+| Dizzy, Wall Splat, combo opportunity
+
+| Hit (Burnout)
+| 800
+| Recovers 6 stocks
+| Dizzy, Wall Splat, combo opportunity
+|===
+
+You can also cancel normals into Drive Impact. In the corner, this can be particularly effective, as it almost always guarantees a dizzy against opponents who are already in Burnout.
+
+The dizzy gives you plenty of time to unload with your highest damaging combo, so be ready to capitalize on this massive opportunity!
+
+____
+[!tip] After the dizzy, the opponent immediately regains all six of their Drive Gauge stocks, so remember to keep an eye on your Drive Gauge or they might quickly return the favor!
+____
+
+== Countering Drive Impact
+
+There are several ways to counter Drive Impact, but it's worth noting that in the heat of battle, especially online or on a laggy setup, this can be easier said than done.
+
+. Use a Drive Impact of your own to absorb their hit and counter with a full crumple Punish Counter with the 20% damage boost. There's no tricky timing involved; if you see it coming, throw yours out, and whichever one comes out last wins. If they hit on the exact same frame, both characters are pushed back significantly, but this is rare.  Also, if you counter the opponent's DI with your own, they lose 2.5 stocks total (1 for the attempt, 1.5 for getting Punish Countered).
+. Throw the opponent out of Drive Impact during its startup frames, which scores a Counterhit and 20% damage bonus, so typically 1,200 damage total.  You have to be right next to the opponent and either had godlike reactions or have anticipated they were going for the DI.  This means DI generally can't be used effectively wakeup, even with its armor. However, if the active frames are already out and you go for the throw, you'll just get Counterhit and crumpled for your troubles.
+. Neutral jump and bait Drive Impact, then use a heavy button into a combo to Punish Counter it.  This is most effective when you're between 1/4 and 1/2 screen away from the opponent.  Your neutral jump has to be somewhat pre-emptive, as if you try and do it on reaction, you'll likely get hit as you're leaving the ground.
+. Use a move with armor-breaking properties (e.g., Guile's Level 1 Sonic Hurricane). Not all characters may have such a move, and typical reversals like Dragon Punches (DPs) or Guile's Flash Kick won't break armor, though powered-up multihit specials like an OD Flash Kick or OD Sonic Boom will do the trick if you cancel a normal like cr. MP first (remember, the DI has two hits of armor).
+. Connect with three hits in quick succession before the DI makes contact with you.  This seems to be the most difficult option and generally impractical in most situations.  There may be characters that are able to land three-hit combos without spending Drive Gauge on an OD Special, but it's too early to tell.
+
+=== Drive Impact Counters At a Glance
+
+|===
+| # | Method | Damage | Notes
+
+| 1
+| Counter with your own Drive Impact
+| 960 + follow-up damage
+| Opponent loses 2.5 stocks total.
+
+| 2
+| Throw during DI startup frames
+| 1,200 (approx)
+| Requires being next to opponent and having good reactions or anticipation.
+
+| 3
+| Neutral jump and then combo
+| Punish Counter bonus
+| Requires pre-emptive neutral jump to avoid getting hit while leaving the ground.
+
+| 4
+| Connect with three hits before DI makes contact
+| Varies
+| Difficult and generally impractical, unless canceling a normal into an OD Special.
+
+| 5
+| Use armor-breaking move
+| Varies
+| Level 1 Super or above will work.
+|===
+
+Although Drive Impact is not a huge threat in neutral situations unless it scores a Punish Counter or absorbs an attack, it's far more dangerous when used near or in the corner, especially when the opponent is low on Drive Gauge or already in Burnout.
+
+____
+[!hint] Remember, a player in Burnout no longer has access to their own DI, OD Moves, or parries, making it easier to make contact with your DI, especially when they're cornered.
+____
+
+It's too early to tell exactly how effective DI will be over the longrun against strong players, but it's likely to be extremely effective against most players early on in the game's life cycle.  Its relatively low cost of a single Drive Gauge stock puts it at the same meter cost as a Parry Drive Rush.
+
+However, if your DI is countered with another DI, not only are you going to eat a big damage combo, you'll also lose 2.5 bars, almost half of a fully stocked 6-bar Drive Gauge!
+
+This high-risk, high-reward mechanic adds another layer of depth to corner mindgames, as it becomes a game of "`chicken`" with the defender needing to simultaneously watch out for the DI, while trying to fight their way out of the corner.
+
+Overzealous attackers may become predictable when going for the DI against a cornered opponent.  But even if your back is against the wall, with a sliver of Drive Gauge left, it's still possible to counter a DI on reaction if you can maintain your cool.
+
+'''
+
+= The Drive System Part III - Drive Reversal & Drive Parry
+
+== Drive Reversal
+
+Drive reversal is similar to the reversal or Alpha counter in Street Fighter V or the Alpha series. It's executed by tapping forward and drive impact (HP and HK) when you're in block stun. This move cancels the block stun and performs a horizontal lunging attack. If the opponent is hit, they're pushed back, knocked down, and incur Grey Life damage. Grey Life damage recovers slowly after a few seconds, but if you get hit before the Grey Life recovers, the damage becomes permanent. The cost for drive reversal is two drive gauge stocks.
+
+Each character's drive reversal has different range, so you need to be aware of that. If you whiff, there's a chance it counts as a punish counter if you get hit. If the opponent blocks the drive reversal, you're only about -2 or -3 on block, meaning you're safe, but it's not your turn anymore.
+
+If the drive reversal is parried, the defender can punish with a full combo. The startup frames for drive reversal seem to be similar to drive impact, but it cannot be baited out and thrown like the reversal in Street Fighter V.
+
+== Drive Parry
+
+Drive parry is similar to the parry in Street Fighter III: Third Strike or Street Fighter V, executed by pressing MP and MK together. The same input as V-Skill in Street Fighter V.
+
+It costs half a bar to attempt the parry, but if the parry is successful, you get the half bar back.
+
+To parry, press the input right as the attacker's move is making contact.
+
+A successful parry absorbs the hit, and depending on the move, you may be able to counterattack. Unlike previous iterations, you can hold down the buttons to parry multiple hits.
+
+The parry window is six frames. If you get a perfect parry (when the move makes contact within the first two frames of the parry), the game slows down with a big animation effect and allows for a huge window of time to counterattack.
+
+However, with a regular parry, their attack's frame data is unchanged, which means that you don't get any extra time to counterattack.  This means that many normals will likely be unpunishable.
+
+In Third Strike, parry was a high reward mechanic, but in Street Fighter V and VI, regular parry is not inhterently high reward, while perfect parry is high reward but also high risk due to startup and recovery frames.
+
+Wake-up parry isn't as strong as it was in Third Strike. The parry has a two-frame startup, which means if a meaty attack connects on the first two frames of the parry, the parry loses.
+
+Perfect parries are challenging even for experienced players.
+
+Perfect parry doesn't seem to benefit from the input buffering system like other inputs, which means it has to hit within the two-frame window. If the attack makes contact on frames 1 or 2, the parry loses; on frames 3 and 4, you get a perfect parry; on frames 5 through 8, you get a regular parry and likely won't be able to counterattack. After frame 8, you're in recovery frames, and if the opponent hits you, they get a punish counter and damage bonus.
+
+Parries are effective in cross-up situations on wake-up since the parry will auto-correct, parrying on whichever side the attack is coming from.
+
+Note that you cannot parry when in burnout mode because you have no bar. If you parry a special move, you don't take any chip damage. Parrying a normal move doesn't decrease your drive gauge.
+
+Generally, although you may not be able to counterattack after parrying, it can still be worth it to attempt a parry because of the extra Drive Gauge you build if the parry is successful.
+
+'''
+
+= The Drive System Part IV - Burnout Mode
+
+== What is Burnout Mode?
+
+Burnout is a weakened state that you enter if you run out of Drive Gauge. You start with six bars, and since so much of the game revolves around the use of Drive Gauge, both on offense and on defense, it's likely that over the course of several rounds, you will use up all of your Drive Gauge.
+
+=== Entering Burnout Mode
+
+==== Running out of Drive Gauge
+
+You can run out of Drive Gauge either by spending it all and then needing to recharge, or by having your Drive Gauge depleted by blocking the opponent's attacks.
+
+On offense, you can spend your Drive Gauge on various moves, such as Overdrive (OD) moves, which cost two bars, or Drive Rush cancels, which take three bars.
+
+On defense, using Drive Reversal costs two bars, attempting a parry costs half a bar, and most importantly, blocking attacks causes your Drive Gauge to decrease.
+
+==== Offense and Defense usage of Drive Gauge
+
+Both on offense and defense, your Drive Gauge will automatically replenish itself over time, as long as you're not using it, blocking, or getting hit.
+
+____
+[!tip]
+Getting hit causes your Drive Gauge to stop replenishing, but you don't lose any Drive Gauge when you get hit, with the exception of all Supers.
+____
+
+=== Effects of Burnout Mode
+
+==== Losing access to abilities requiring Drive Gauge
+
+When you're in Burnout, you lose access to all abilities that require Drive Gauge, such as Drive Impact, Drive Parry, Drive Reversal, Drive Rush, Parry Drive Rush, and your OD moves. This puts you at a significant disadvantage because you lose access to so many options.
+
+==== Getting dizzied by opponent's Drive Impact
+
+If the opponent makes contact with their Drive Impact while you're in Burnout and near the corner, even if you're blocking, you get dizzied. This makes Drive Impact even more of a threat, especially if you're in Burnout late in the round.
+
+____
+[!tip]
+Remember that blocking a Drive Impact costs ½ a bar.  This means if you have less than ½ of a stock left, blocking a Drive Impact will cause a dizzy!  This means you're in danger of being dizzied, _even if you're not yet Burnt Out!_
+____
+
+==== Extra block advantage for the opponent
+
+When you're in Burnout, the attacks that you block grant an extra four frames of block advantage for the attacker (*_not for you_*).
+
+This means that moves that were minus (negative frame advantage) under non-Burnout circumstances now become plus (positive frame advantage), creating new block strings and frame traps that are only possible when the defender is in Burnout.
+
+=== Managing Drive Gauge
+
+Burnout Mode forces you to manage your Drive Gauge as best you can and gives you an incentive to keep an eye on the opponent's Drive Gauge, as well as try to control theirs.
+
+It encourages you to play smart with your Drive Gauge and not waste it unnecessarily, as running out of Drive Gauge will leave you in Burnout for quite some time.
+
+This adds a new layer of strategy not seen before in previous Street Fighter games because there can be situations where you are forced to choose whether it's worth it to enter Burnout for the sake of a higher damage combo.
+
+You might also unexpectedly enter Burnout by using your Drive Impact to absorb theirs.
+
+On defense, you might choose to use the last of your meter on a Drive Reversal in an attempt to fend off your opponent while cornered.  If it hits, they'll be knocked down and pushed across the screen, potentially buying you the time and space needed to stop their momentum, take a breath, and regain control.
+
+Of course, a savvy opponent knows this is one of your main options and will be on the lookout for you to use the last of your bar on a Drive Reversal, potentially baiting it out and punishing accordingly.
+
+____
+[!tip]
+It's worth noting that even though your Overdrive Arts all cost different amounts of Drive Gauge (DI costs 1 bar, Drive Reversal costs 2 bars, Drive Rush Cancel costs 3 bars, etc.), you don't need to have that amount of meter in order to do the move.
+
+You have access to all of your Overdrive Arts as long as you have even a sliver of Drive Gauge left.  There doesn't seem to be any penalty for going into "`Drive Gauge Debt`", as the Burnout recovery time will be the same no matter how you ended up there.
+
+For example, on the surface it might seem like you can only do at most three OD Moves before you Burn Out (each OD Move costs two and you only have six total), but you can _"`steal"_ a fourth one in as long as you waited a brief moment for your bar to start recovering.
+____
+
+=== Fighting While Burnt Out
+
+Whether you willingly (_or carelessly_) spent the last of your bar or had your Drive Gauge eaten up by blocking your opponent's attacks, once you're in Burnout, you must begin moving or attacking for the meter to start refilling.
+
+____
+[!tip]
+Burnout lasts at most *_about 20 real-life seconds_*, which can be an eternity!
+____
+
+==== Ways to speed up the Drive Gauge recovery time:
+
+* Blocking attacks increases your Drive Gauge in chunks.
+* Making contact with your attacks, whether they hit or are blocked, also increases your Drive Gauge in chunks.
+* Getting dizzied by a Drive Impact will cause your Drive Gauge to immediately refill after the dizzy is over (*_assuming you are still alive_* 🤣 )
+
+So whether you used the last of your meter on offense or defense, you are incentivized to go on the offensive in order to recover sooner.
+
+If you have the opponent cornered, it might make sense to use up the remainder of your Drive Gauge in order to do extra damage or to cause a crumple or dizzy state.
+
+Even though you'll be in Burnout, you'll likely be able to continue the offensive pressure on their wakeup or reduce your risk by taking a step back and baiting the opponent to overextend and punishing accordingly.
+
+Because you have them cornered, you have the entire screen to work with and can safely apply pressure while inching backwards.
+
+Although you lose access to all of your Overdrive Arts, you still have access to your Super meter.  This can end up being your only option to extend combos while in Burnout, as well as your only option to defend against an incoming Drive Impact while cornered.
+
+=== Avoiding Burnout
+
+Though sometimes you'll be in situations that force you into Burnout, there are usually ways to avoid it such as:
+
+. Using Drive Reversal _before_ you have less than 2 bars left.
+. Foregoing extra damage in a combo by not spending 2 bars on an OD Move.
+. Using Drive Rush Cancel sparingly because 3 bars is fairly expensive.
+. Using your Super Meter instead of an OD Move to finish a combo.
+. Countering their Burnout-inducing Drive Impact with your own Drive Impact.
+
+In the heat of battle, these may be easier said than done, but with practice and awareness, you'll gradually be able to reduce amount of time you spend in Burnout.

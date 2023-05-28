@@ -1,3 +1,7 @@
+---
+created: 2023-04-01 08:20 AM
+updated: 2023-04-01 09:07 AM
+---
 # Pandoc book template
 
 [![CircleCI](https://circleci.com/gh/wikiti/pandoc-book-template.svg?style=shield)](https://circleci.com/gh/wikiti/pandoc-book-template)

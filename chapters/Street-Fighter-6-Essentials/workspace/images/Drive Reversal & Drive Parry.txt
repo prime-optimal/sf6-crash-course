@@ -1,0 +1,216 @@
+Okay, so now let's talk about the defensive
+system, the defensive options of the Drive System.
+So, I guess let's talk about Drive Reversal first because it's the most straightforward.
+So, Drive Reversal is similar, if you played Street Fighter V or the Alpha series, it's
+most similar to the reversal or Alpha counter.
+So it's done by tapping forward and Drive Impact, Heavy Punch and Heavy Kick when you're
+in blockstun.
+So this, so the move ends.
+cancels the blockstun and then you do like a horizontal like lunging attack and
+if the opponent gets hit then they're knocked they get pushed back pretty far
+they're knocked down and they incur a Grey Life damage. So Grey Life damage is
+recovers slowly after a few seconds. But if you get hit,
+while you're...
+if you get hit again, or if you get hit before the Grey Life recovers,
+that damage becomes permanent.
+Uh...
+I have to check and see if you can
+throw them out of it.
+If you can throw them out of the driver versa on reaction, or the driver versa on reaction,
+but I don't think you can because that was one of the major problems with the
+reversal in Street Fighter V is that if you bated it out, you could just throw them.
+So there's that.
+The other thing is that if it's, you can, it also, oh, oh, the cost is two of your drive
+gauge stocks.
+So you can't, you know, like, you can't use it like all the time.
+And it can be, yeah, like each character's Drive Reversal is different, is a little different
+in terms of how much range it has. So you have to be conscious of that because like if
+you throw it out when they're too far away then you whiff and I'm pretty sure if they
+hit you it counts as a punish counter.
+And if they block the driver reversal, it's the, I think you're only like minus 2 or minus
+3. So you're safe if they block it, but it's
+Not your turn anymore, but you don't get your turn back.
+The other thing about
+about a Drive Reversal is if it's parried, yeah, if the Drive Reversal is parried, the
+Defender has enough time to punish, you know, you can go into a full combo if you parry
+a Drive Reversal successfully. But I have to look at how many startup frames, but I want
+to say it's pretty similar to Drive Impact. So it's theoretically something that you can
+react to with a parry but you can't bait it out and throw them.
+You might be, I'm pretty sure if you're close to them and you do it and you bait it out,
+I'm pretty sure you could also hold up and that would work too.
+So that's driver or sole two bars of Drive Gauge stock.
+So now, let's talk about the Drive Parry.
+So if you played third strike or street fighter five, you're probably familiar with the parry.
+It's done by pressing Medium Punch and Medium Kick together.
+So the same input as V-Skill in Street Fighter V.
+So if you played Ryu in Street Fighter V, then it basically works the same way as it
+did in that game, which is much different than the way that it worked in Third Strike, which
+is you would have to tap forward. So it costs half a bar to
+attempt the parry. But if the parry is successful, then you get the half bar back.
+So, the way it works is you want to do the parry right as the move, as the attacker's
+move is making contact.
+And so yeah, if it connects, like if the parry is successful, then you don't take any damage
+from the attack like it absorbs the hit
+and
+depending on the move
+you
+may
+be able
+to
+um... to counter attack
+and
+uh...
+i believe
+you get a
+i believe it'll count as uh...
+a punish counter
+i'm not totally sure
+like what the window is i have to check
+uh... the uh... okay so the other thing about
+the parry
+makes it
+much different
+from previous iterations is that you can just hold the buttons down to parry multiple hits
+as opposed to needing to tap it with each hit that you're trying to parry.
+So this makes parrying moves that hit multiple times super easy.
+The other thing is that even though it, I feel like the window is six frames.
+I think the window is six frames.
+just say the Windows 6 frames. So within that 6 frame window where you where the
+attack will be parried if you if it connects in the first like it if you
+parry in that six-frame window if the move makes contact in the first two frames of the
+parry then you get a Perfect Parry and you'll know that you got the Perfect Parry because the
+game slows down and there's this big animation effect
+kind of like the animation from hitting a Drive Impact successfully.
+And
+The Perfect Parry allows for a huge window of time to counter-attack.
+It's probably as much time as you get from hitting a Drive Impact.
+Whereas with a regular parry, for most moves,
+you don't get enough frame advantage
+from landing a successful parry in order to--
+like you don't get enough frame advantage to counter attack.
+So,
+you know,
+that kind of,
+And to me that makes it like regular parry kind of weak.
+Because in Third Strike, you know, you could...
+Like, in third strike usually, um, in third strike if you got a parry, if you parried
+like a medium or heavy attack, that was usually, um, that would usually give you enough time
+to counterattack with like, you know, whatever your characters main, you know, combo starter was.
+And, you know, that basically, oh, and even on a light attack, if you parried a light up close,
+you still had enough time to be able to throw the attacker.
+So, you know, what that resulted in was the parry being like a very high reward mechanic in Third Strike.
+It's Street Fighter V. You know, regular parry isn't, you know, isn't high reward, but
+definitely the Perfect Parry is high reward.
+But it's also high risk because just like in Street Fighter V, the parry has both startup
+frames and recovery frames.
+Whereas in Third Strike, there basically were no startup frames.
+So you could do a parry on wake up.
+And because you're just tapping forward,
+if the opponent wasn't attacking,
+then there was no recovery animation,
+because you just tapped forward and nothing happened.
+But starting in Street Fighter V
+and now coming into Street Fighter VI,
+there are startup frames and recovery frames
+on the parry, which means if the attacker
+If an attacker is doing, if an attacker has, if an attacker is timing, if the opponent
+is timing the attack, is timing a meaty attack to hit you right as you're getting up. The
+meaty attack wins because the parry has a two frame startup. So that means that you can't
+You can do the parry on wake up, but if the meaty attack connects on the first two frames
+of the parry, the parry loses. So like, you know, like, that may not sound like, like,
+I would say it's too early to tell whether or not Wake Up Parry is going to be something
+that is a reliable option on Wake Up.
+But I don't think it will be because it's basically designed not to be an omniscient
+or a um it's not supposed to be a strong wake-up option because in third strike it was arguably
+too strong of a wake-up option and in that game you always had to worry about wake-up parry because
+Because let's say if you were fighting a character like Juri with like
+unblockables or like super high damage output, you know,
+the, you know, the defender can have, you know,
+you could be losing the entire round and then get one lucky wake-up parry
+and then totally, um, you know, switch totally switch the momentum up and
+you know, do a, you know, do like game changing damage, do like, yeah, do game changing damage
+off of parrying one low light attack.
+You know, so I think they've basically toned down how good it is on wake up to prevent
+those situations.
+The other thing about Perfect Parry is that you can't...
+If you get a Perfect Parry, the damage scaling starts at 50%.
+So I don't know if that's like the entire combo is just 50% damage scaling or it starts
+at 50% and goes lower with every hit that I don't know.
+I have to check, but it's significant that the damage is reduced.
+and also like even as a dirt strike player with years of parrying experience, I find
+whoa I find perfect parries to be really is really difficult. It's also worth mentioning.
+I haven't tested this myself.
+Well, okay.
+It's worth noting that it appears like the Perfect Parry can't be done.
+Like, you have to...
+The move has to make contact in those first...
+Not only does the move have to make contact...
+Or...
+In those first two frames...
+But like...
+It appears like it doesn't benefit from the...
+It doesn't benefit from the input buffering system like other inputs do.
+For example, in Street Fighter V,
+Street Fighter V introduced either, I think it was a three-frame buffer, where you could,
+you could do a move like up to three or five frames early, and the game would just
+register it as coming out on the earliest possible frame, which made Link combos much,
+much easier to the point, to the level of...
+It basically makes it so that one frame links
+aren't actually one frame because you had,
+because you could input the next hit of the console,
+the next hit of the combo up to three frames earlier or five frames and it would still
+and the game would count it as having, you know, come out on the first possible frame.
+Whereas in Street Fighter IV, one-frame links really were one-frame links.
+though the planking technique was discovered which allowed which basically lets you generate
+extra inputs to make those one-frame links easier to do.
+So what does it mean that the parry doesn't benefit from the...
+What does it mean that you can't input buffer the Perfect Parry?
+Well that means that it actually has to hit on, it actually has to hit in that two frame
+window.
+Otherwise, you get a regular parry and most likely you won't be able to punish the move.
+So I'm pretty sure that means that because the parry has a two frame startup, you only
+have, you can only get the Perfect Parry on frames three and four.
+And there's no input buffering, so you literally had a window of...
+You have a one-thirtieth of a second window to hit the Perfect Parry.
+And so if you hit it too...
+Yeah, like the the attackers move has to collide
+with the parry on frames three or four in order to get the Perfect Parry. If it's
+the four frame three the parry loses because it's
+still in the startup frames and
+if it's
+And if it's after and if it's the fourth
+If it's the fourth
+Sorry if it's the
+Fifth
+Okay, yeah, if it hits on...
+Okay, let's start over.
+If it hits, if the attack makes contact on frames one or two, the parry loses.
+On frames 3 and 4 you get a Perfect Parry and then on frames 5 through 8 you get a regular
+parry and likely won't be able to counter attack with anything.
+But after frame 8, you're in recovery frames, which means that if the opponent hits you,
+score a... they'll get the punish counter frame and damage bonus.
+So, um...
+Yeah, I mean...
+I don't know. Me personally, I guess I haven't trained parries enough to feel like I'm a threat with them.
+Because it just seems so daunting to...
+It's like the risk reward is not...
+Like the risk is really high and the reward is pretty low.
+low even if you get the Perfect Parry there's still the 50% damage scaling.
+But one way that it is that it does seem to be one situation that it does seem to be
+like pretty effective in is in a cross-up situation on wake-up. So if the opponent is trying to
+if you're knocked down and the opponent goes for the cross-up,
+going for the parry is probably a pretty good option because
+Like, it doesn't...
+Like, the parry will...
+The parry will auto-correct.
+So you don't need to...
+You don't need to worry about blocking the opposite way.
+And if you get the Perfect Parry...
+Then...
+Yeah, you have enough time to counter attack.
+The other thing to note is that you cannot parry when you're in burnout mode because
+you have no bar.
+Yeah, can't parry when you're in burnout.
+Oh, and I guess it's also worth mentioning that you don't...
+If you parry a special move, you don't take any chip damage.
+parry a normal it doesn't decrease your Drive Gauge so that's parries

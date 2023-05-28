@@ -1,0 +1,305 @@
+---
+created: 2023-05-20 04:29 PM
+updated: 2023-05-26 12:45 PM
+---
+Frame data are the numerical building blocks of any fighting game. It's like the genetic code of every move in the game. When you understand the way that frame data works, you can gain a deeper understanding of every move, how it relates to your character, and gain a deeper understanding of the game as a whole.
+
+You can use frame data to figure out which moves are safe or unsafe, and which moves in your arsenal you can use to punish an opponent's blocked move. You can use it to construct offense, both by piecing together moves that will link into each other, and to create block strings and frame traps.
+
+> Note: Frame data may seem intimidating at first, with its resemblance to a giant spreadsheet. Most people don't get into fighting games because they enjoy giant spreadsheets; they get into fighting games because of the cool combos and the fun gameplay.
+
+However, if you're serious about getting better, learning how to use frame data is probably the most important skill a fighting game player can develop, second only to execution. Understanding frame data can help you make better decisions, which will improve your win rate over the long run.
+
+> Note: Frame data can be a complicated subject. The aim here is to break it down as best as possible.
+
+Now, for a little bit of context, I've played just about every version of Street Fighter since Street Fighter II in the early 90s. However, it wasn't until Street Fighter V in 2016 that I really started to utilize frame data and prioritize its importance when learning the game.
+
+> Note: This delay in using frame data was due in part to a lack of access to the frame data, a lack of Training Mode features that showcased the frame data, and a combination of laziness and hubris on my part.
+
+When I started competing in Street Fighter III, 3rd Strike, frame data was a highly advanced topic with few easily available resources. Even after I started competing regularly, despite being aware of frame data, I didn't know where to look or how to start using it.
+
+Therefore, I believe it's vital for players nowadays to have a strong understanding of frame data. While Street Fighter V eventually integrated frame data features into its Training Mode, Street Fighter 6 does it significantly better – hats off to Capcom for this.
+
+In Street Fighter 6, Training Mode has probably the most important quality of life improvement: the frame meter. This can be activated through the menu. It might seem intimidating or complicated at first, but the fact that it exists is a huge advantage for players. You no longer need to wonder what's happening with every frame of a move.
+
+> Note: The frame meter will be discussed in detail later.
+
+It's a significant change to have all this information readily available. Regardless of how much you choose to learn about it, the fact is, it's freely available in the game, as well as on sites like fullmeter.com. Even if you choose not to fully maximize this advantage, you can be sure that your competition will.
+
+## How Frame Data Works in Street Fighter 6
+
+So, how does frame data work? Firstly, you always have to keep in mind that the game runs at 60 frames per second. When you're just starting out, remembering this fact can make it easier to put all the numbers into context – because it is a lot of numbers!
+
+We're going to begin, as you might expect, with Ryu. 
+
+Looking at fullmeter.com, the first thing we're going to do is click on one of the columns and turn off all of the columns, except for 'startup', 'active', and 'recovery'. Additionally, we'll turn on 'total'. So now, we only have four columns displayed.
+
+For now, we're only going to focus on the grounded moves. We'll start with standing light punch (st. LP), standing medium punch (st. MP), and standing heavy punch (st. HP). This is the simplest way to start, and the same concepts can be extrapolated once you understand the basics.
+
+![](images/2023-05-11-16-54-42.png)
+
+So, what do each of these columns mean? Let's start with 'Total'. 
+
+This is the total number of frames of animation that the move has from start to finish. As you can see, a st. MP is 20 frames in total. 
+
+So, if the game runs at 60 frames per second and st. MP has 20 frames of animation in total, it means that it takes one-third of a second for the move to come out, from the moment you press the button until the animation finishes.
+
+But without context, that doesn't mean very much. So, how does that compare to the other two moves, st. HP and st. LP? 
+
+Well, st. HP has 32 frames in total. This means from start to finish, the animation of the move takes just over half a second to play. St. LP, on the other hand, has 13 total frames, meaning its animation takes just under a quarter of a second from start to finish.
+
+Now, it's not super important to remember the exact numbers of every move in your arsenal at this point. This is more to illustrate the difference in speed between each move. 
+
+> [!tip] The Total column can be used to calculate Frame Kill scenarios, where you need to “kill” a certain number of frames after a knockdown to ensure that your next attack connects as a “meaty” as the opponent gets up.
+
+At this point, you might be thinking to yourself that the difference between a quarter, a third, and half a second really isn't that much. 
+
+And you're right, in the real world, there's not much we do on a day-to-day basis that places a heavy importance on the differences between a quarter and half a second. 
+
+But in fighting games, every frame counts.
+
+## Understanding Startup, Active, and Recovery Frames
+
+Now, we're going to turn off the 'Total' column, leaving only the 'Startup', 'Active', and 'Recovery' columns. To understand these, imagine throwing a punch in real life:
+
+- 'Startup' frames are from the moment your fist and arm begin to extend away from your body.
+- 'Recovery' frames are from the moment you start to retract your fist and arm until they're back at the starting position.
+- 'Active' frames are the sweet spot in the middle where your punch is most powerful and can make contact with the target.
+
+When we look at each of these columns, it's important to realize that each one is significant in its own way. If you're throwing a punch, the punch doesn't just land instantly. It takes time for your arm to extend and your fist to make contact. This is true whether you're Mike Tyson, Bruce Lee, or some random person in a bar fight.
+
+The time will vary based on your training and skill set. Similarly, the time it takes for the punch to travel the distance will also vary depending on the type of punch you're trying to throw. 
+
+Consider boxing: jabs are fast punches that don't necessarily do a lot of damage, they're more to keep the opponent on their toes. Uppercuts, while more forceful and damaging, are slower than jabs. The same principles apply to fighting games, including Street Fighter 6.
+
+Looking at the 'Startup' column, you'll see that standing light punch (st. LP) has a startup of 4 frames, standing medium punch (st. MP) has a startup of 6 frames, and standing heavy punch (st. HP) has a startup of 10 frames. 
+
+Keeping in mind that the game runs at 60 frames per second:
+
+![](images/2023-05-11-17-35-54.png)
+
+- A 4-frame startup is 1/15th of a second.
+- A 6-frame startup is 1/10th of a second.
+- A 10-frame startup is 1/6th of a second.
+
+Although these differences may seem minuscule as we're talking fractions of a second, proportionally, it's a significant difference. Going from 4 to 10 frames is a 150% increase in time, while going from 4 to 6 frames is a 50% increase.
+
+It's also important to understand that human reaction times play a significant role. 
+
+![](images/2023-05-11-17-42-39.png)
+
+According to humanbenchmark.com, the average reaction time after 81 million tests is 273 milliseconds, which is just over a quarter of a second. Translated into frames (given that 1,000 milliseconds divided by 60 frames per second is approximately 16.67 milliseconds per frame), 273 milliseconds is around 16 frames.
+
+This is crucial to remember when understanding frame data. 
+
+For instance, the total number of frames for st. LP is 13 frames, three frames faster than the average human reaction time, which means you won't be able to react to it in time.
+
+Similarly, st. MP, which is 20 frames total, is also probably not something you're going to be able to react to if you weren't already blocking. 
+
+You might be thinking that you have better reaction times than the average Joe and that you can react in less time, maybe 12 or 14 frames instead of 16.  
+
+Therefore, you should be able to react to a 20 frame move, right? 
+
+Wrong.  
+
+You have to look at the Startup frames for the st. MP to determine whether you would be able to block on reaction.  6 frames is way too fast to be able to react. 
+
+So although, you might be able to whiff punish a st. MP under optimal conditions because it’s 20 frames total, you’re not going to be able to block on reaction. 
+
+
+## Blocking Overheads 
+![](images/2023-05-11-19-04-52.png)
+Ryu’s Overhead (F+MP), on the other hand, is a move that you can block on reaction. 
+
+Because its Startup is 20 frames, if you had an average reaction time of 16 frames, you would theoretically be able to block on reaction with enough practice.  
+
+However, when you factor in the inherent input lag in your controller, monitor,  console/PC, and the time it takes for packets to travel across the internet, you start to understand why serious players will spend the time and money it takes to reduce input lag as much as possible. 
+
+## Startup Frames In-Depth
+
+With a better understanding of what we can react to and what we can't, let's delve deeper into the startup frames. 
+
+![](images/2023-05-11-17-00-03.png)
+
+Ryu's standing light punch, for instance, has a startup of four frames. Reviewing all of his grounded normals, you'll find that none have a startup faster than four frames, including his crouching light punch. 
+
+This is one of the significant changes in Street Fighter 6's game engine compared to its predecessors. In Street Fighter III: 3rd Strike, IV, and V, there were no normals with a startup of less than three frames. 
+
+On the surface, this one-frame difference might seem insignificant, especially since no one can react to a three or a four-frame jab. However, it has a notable impact on gameplay.
+
+In the beta version of Street Fighter 6, none of the eight characters have any moves that start in less than four frames, including their Super moves.  
+
+Generally, Level 1 Supers have a 7-8 frame startup, while Level 3 Supers like Ryu’s Shin-Shoryuken have a 5 frame startup. 
+
+This change, I believe, is part of Capcom's efforts to modernize the franchise. Prior to Street Fighter 4, Capcom didn't have to consider netplay during development. 
+
+Games like 3rd Strike were primarily designed for the arcade environment with no capacity for online play and generally standardized hardware. 
+
+Arcade cabinets typically used CRT monitors, which have lower latency than the LCD monitors connected via HDMI cables found in today's consoles and PCs. HDMI introduces about one frame of lag. 
+
+With Street Fighter 6, it's clear that the online component is a much higher priority for Capcom. 
+
+Playing side by side or head to head on a CRT monitor is much different than playing online on non-standardized hardware. 
+
+This shift in focus is also evident in the higher startup frames for Supers in Street Fighter 6 compared to Street Fighter V. 
+
+In Street Fighter V, Ryu's and Ken's supers had a six-frame startup, while their equivalent in Street Fighter 6, their super-art 1, both have seven-frame startups. 
+
+This increase, I believe, is to compensate for the introduction of one-button Supers in modern mode, another adjustment Capcom is making to modernize the franchise. 
+
+The overall increase in startup frames also extends to invincible reversals in this game, such as Ryu's DP. 
+
+In Street Fighter 5, Light and EX DP both had three-frame startups, while in Street Fighter 6, Light DP has a five-frame startup, and OD DP has a seven-frame startup.
+
+The difference between a three and five-frame DP is quite significant. 
+
+For instance, it affects safe jump setups - perfectly timed jump-ins on an opponent getting up from a knockdown. 
+
+If the opponent does a wake-up invincible reversal, the attacker can block the DP because they've already hit the ground. If the defender doesn't DP, they're forced to block the jump-in. 
+
+In Street Fighter IV and V, characters with a three-frame invincible reversal, like Ryu, had an advantage over characters like Guile, whose Flash Kick comes out in four frames.  This difference of a single frame meant that you could safe-jump Guile, but not Ryu.  
+
+However, in Street Fighter 6, it seems the fastest invincible reversal you can hope for is five frames. 
+
+This makes safe jump setups more important in this game compared to previous versions.
+
+### Getting Hit During Each Stage
+
+But what happens if you get hit during the Startup frames of a move?
+
+In this scenario, the attacker will score a Counterhit.
+
+Counterhits result in an extra two frames of hit advantage for the attacker.
+
+We'll talk more about Counterhits later in the chapter
+
+If a move is hit during its Active frames, this results in what's called a trade.  In this scenario, both players take damage.
+
+However it can also result in one of the players being able to convert the trade into a combo, such as by following up with a Super.  This is rare, but it is possible.
+
+Now what happens if you hit an attack during the Recovery frames?
+
+In this scenario, the attacker gets in this scenario instead of getting an extra two frames of hit advantage.
+
+The attacker is rewarded with an extra four frames of hit advantage plus the damage boost.
+
+This allows for punish counter specific combos in the same way that regular counter hits result in Counterhit-only combos.
+
+Ryu’s st. HP has 18 frames of recovery, which makes it pretty challenging to Punish Counter.  So that's not something that you're going to see all the time.
+
+What's far more common is punishing a blocked invincible reversal like a DP or punishing a whiffed throw, as you have way more time to react.
+
+## Understanding the "On Hit" Column
+
+In this section, we'll explore the "on-hit" column, focusing on Ryu's standing Medium Punch. 
+
+When this move hits, you're granted a seven-frame window to perform another attack and have it combo.
+
+This is called ***frame advantage*** because you are able to start your next move before the opponent can act because the opponent is in hitstun.
+
+> [!tip] 
+> Having frame advantage is also referred to colloquially as being “plus,“ so you might hear someone say:
+> 
+> “Ryu’s standing Medium Punch is plus seven on hit.”
+
+This seven-frame window provides Ryu the flexibility to link into several other attacks, including:
+
+1. Standing Light Punch
+2. Standing Medium Punch
+3. Standing Light Kick
+4. Crouching Light Punch
+5. Crouching Medium Punch
+6. Crouching Light Kick
+7. Back Heavy Punch
+
+![](images/2023-05-11-23-23-59.png)
+
+Let's rank these options from best to worst:
+
+1. **B+HP** - This move is the best option because it deals 800 damage and can be canceled into specials and supers. However, it does not have a good range, so it may not connect unless you're very close to the opponent. Also, this move is only available in Classic mode. If you're using Modern Controls, this move isn't an option.
+
+2. **cr. MP** - This is the second-best option because it deals 700 damage, can be canceled into specials and supers, and has a decent range. Even if you're not right next to the opponent, it'll likely connect. With Modern Controls, there's a slight execution requirement because you have to hold the auto button and press medium, or press them simultaneously for the move to come out.
+
+3. **st. MP** - The third-best option deals 600 damage, can be canceled into specials, and has good range. This move is easier to execute because you simply press the same button again if you're using modern controls.
+
+> [!note] His MP > LK target combo would also work, but it has the same startup as st. MP by itself, so it’s considered the same option.
+
+5. **st. LP, cr. LP, st. LK** - All three of these options are viable but they don't deal as much damage as the previous ones. However, they can be canceled into specials. Generally, there's no reason to choose these moves over the others since they deal less damage.
+
+6. **cr. LK** - This move is the worst option because it deals the least damage and cannot be canceled into specials. The combo would end with this move since it's not special cancelable.
+
+Understanding these options and their ranking can help you decide on the best combo strategy during gameplay.
+
+![](images/2023-05-12-00-25-51.png)
+
+### Understanding the “On Block” Column 
+We've already explored what happens when Ryu's standing Medium Punch hits. Now, let's consider what happens if it gets blocked.
+
+On block, Ryu's standing Medium Punch is minus one. This might be a new concept if we've only discussed positive frame advantages up until now. Being negative, or minus on block, refers to a situation where the opponent can act before you can. It's akin to them having a head start in a race. The more negative you are on block, the more punishable the move is.
+
+Even though being minus one on block might not seem significant, it is. In the language of fighting games, if you're minus on block, your "turn" is effectively over. This concept of "turns" refers to the idea that if you're plus, whether that's on hit or on block, you get to attack again. If you're minus, your turn ends because the opponent gets to act before you do.
+
+For instance, if Ryu's standing Medium Punch is blocked, leaving him minus one, and he tries to do another standing Medium Punch, but his opponent also initiates a standing Medium Punch at the same time, the defending Ryu's punch would win. 
+
+Even though both moves have a six-frame startup, the defending Ryu has a one-frame advantage because the attacking Ryu is minus one after the first punch. 
+
+The defending Ryu would not only win the interaction, but he would also score a counter hit, resulting in a damage boost of 20% as well as two extra frames of hit advantage (+9 instead of +7).
+
+> [!note] How it worked in SF4 and SFV
+> Players who have experienced Street Fighter IV or V might notice significant differences in Ryu's move set. For example, in the previous games, Ryu had more moves that were plus on block, such as standing Medium Punch and crouching Medium Punch, both of which were plus two on block. However, in Street Fighter VI, Ryu only has two moves that are plus on block, and they aren't as easy to apply pressure with as his normals in Street Fighter V.
+> 
+> Being plus two on block in Street Fighter V was kind of like the magic number because throws have a five-frame startup. 
+> 
+> If you're plus two on block, and the normal doesn't have very much pushback, the defender has to decide whether you're going to attack again, throw, or stop your offensive pressure.
+> 
+> If you continue the pressure, both st. MP and his throw have a startup of 5 frames.  Both are potentially very damaging.
+> 
+> If the opponent continues to block, then they'll either block the second hit, the standing medium punch, or they're at risk of being thrown.
+> 
+> If they think that that you're going to throw after the standing light punch, they might tech the throw with a throw of their own.  
+> 
+> But if instead of the throw, you went for the st. MP, their throw would lose to your st. MP because you had +2 frame advantage after they blocked intial st. LP.  
+> 
+> This was a big part of the way offensive pressure worked in SFV. 
+
+
+This might seem like Ryu has been nerfed in Street Fighter 6, but it's more about changes in the game's overall mechanics. In Street Fighter IV and V, many characters had several normals that were plus on block, allowing them to apply almost continuous offensive pressure. Street Fighter 6 has dialed that back, resulting in a different dynamic in up-close pressure. 
+
+So then what are you supposed to do? 
+
+At least in the early days of SF6, you’ll likely be able to get away with another st. MP or cr. MP, which could then be canceled into a Fireball for some easy chip damage if it was blocked.
+
+> [!warning] Don’t forget to take into account that the second st. MP starts from -1 frame advantage, essentially changing a 6 frame startup to a 7 frame. 
+
+You might also be able to get away with a throw against some players.  
+
+However, as players get used to the game and start to catch on, it likely won’t be long before they begin checking moves that are -1 with their fastest normal.  
+
+This is something to watch out for when facing Modern Control players.  
+
+If you choose to continue your offensive pressure with another crouching Medium Punch after the first one, here's what might occur based on the opponent's potential responses:
+
+1. **Opponent's Crouching Medium Kick**: This move would lose to your second crouching Medium Punch, as it has an eight-frame startup, making it two frames too slow.
+
+2. **Opponent's Crouching or Standing Medium Punch**: These would trade hits with your crouching Medium Punch, resulting in a counter hit for both players. However, the situation would essentially be reset.
+
+3. **Opponent's Throw**: You might think a throw, with its five-frame startup, could disrupt your sequence, but it won't. Your crouching Medium Punch will beat the throw and score a counter hit because the throw's range isn't sufficient to connect with the crouching Medium Punch.
+
+4. **Opponent's Crouching Light Kick**: This move has a five-frame startup, so it could beat your crouching Medium Punch. However, the crouching Light Kick isn't cancelable into anything, so it won't bring a significant advantage.
+
+5. **Opponent's Standing Light Kick**: Here things get interesting. The standing Light Kick also has a five-frame startup, but it is cancelable. The opponent could cancel the standing Light Kick into a Light Donkey Kick for a quick 1,200 damage.
+
+Moreover, the standing Light Kick is the start of Ryu's Auto Combo 1 (st. LK xx LK Donkey Kick), which is performed by holding AUTO and pressing Light twice. 
+
+> [!tip] This can be executed from a low blocking position.  AUTO + Light forces Ryu to perform a standing Light Kick, even if you continue to hold down back. 
+> 
+
+Depending on screen positioning, this could even result in the Light Donkey Kick being canceled into his Level 3 Super.
+
+All this potential damage comes from you choosing to go for a second crouching Medium Punch with a six-frame startup. 
+
+Because the standing Light Kick has only a five-frame startup, it can interrupt your sequence and turn the tables. Given this, many modern players are likely to get significant mileage out of this strategy, as it can be easily mashed out during tense exchanges.
+
+To counter this, swap the second cr. MP with st. LP, which only has a 4 frame startup.  
+
+If the defending Ryu mashes st. LK, your st. LP will beat it, scoring a Counterhit, which can be followed by a st. LK xx LK Donkey Kick of your own.  
